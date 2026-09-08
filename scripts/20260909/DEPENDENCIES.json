@@ -1,0 +1,429 @@
+{
+  "python": "3.10.11",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "host_environment_packages": [
+    {
+      "name": "altgraph",
+      "version": "0.17.5"
+    },
+    {
+      "name": "comtypes",
+      "version": "1.4.16"
+    },
+    {
+      "name": "et_xmlfile",
+      "version": "2.0.0"
+    },
+    {
+      "name": "openpyxl",
+      "version": "3.1.5"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3"
+    },
+    {
+      "name": "pefile",
+      "version": "2024.8.26"
+    },
+    {
+      "name": "pillow",
+      "version": "12.3.0"
+    },
+    {
+      "name": "pyinstaller",
+      "version": "6.22.2"
+    },
+    {
+      "name": "pyinstaller-hooks-contrib",
+      "version": "2026.7"
+    },
+    {
+      "name": "pywin32",
+      "version": "312"
+    },
+    {
+      "name": "pywin32-ctypes",
+      "version": "0.2.3"
+    },
+    {
+      "name": "pywinauto",
+      "version": "0.6.9"
+    },
+    {
+      "name": "six",
+      "version": "1.17.0"
+    }
+  ],
+  "separate_diagnostic_packages": [
+    {
+      "name": "dncil",
+      "version": "1.0.2"
+    },
+    {
+      "name": "dnfile",
+      "version": "0.18.0"
+    },
+    {
+      "name": "pefile",
+      "version": "2024.8.26"
+    }
+  ],
+  "imports": [
+    {
+      "path": "workspace/dell1080_20260908/acceptance.py",
+      "imports": [
+        "hashlib",
+        "json",
+        "pathlib"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/audit_full_backup.py",
+      "imports": [
+        "acceptance",
+        "argparse",
+        "collections",
+        "hashlib",
+        "json",
+        "openpyxl",
+        "pathlib",
+        "xml.etree.ElementTree",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/build.py",
+      "imports": [
+        "acceptance",
+        "argparse",
+        "batch",
+        "controller",
+        "hashlib",
+        "importlib.util",
+        "json",
+        "openpyxl",
+        "pathlib",
+        "production",
+        "prolab",
+        "re",
+        "runner",
+        "shutil",
+        "subprocess",
+        "sys",
+        "time",
+        "traceback",
+        "ui",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/complete_delivery.py",
+      "imports": [
+        "hashlib",
+        "json",
+        "pathlib",
+        "shutil",
+        "subprocess",
+        "time",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/continue_pipeline.py",
+      "imports": [
+        "argparse",
+        "hashlib",
+        "json",
+        "pathlib",
+        "subprocess",
+        "sys",
+        "time",
+        "traceback",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/finalize_delivery.py",
+      "imports": [
+        "acceptance",
+        "build",
+        "csv",
+        "hashlib",
+        "json",
+        "pathlib",
+        "shutil",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/inspect_import_precision.py",
+      "imports": [
+        "dncil.cil.body.reader",
+        "dnfile",
+        "hashlib",
+        "json",
+        "pathlib",
+        "sys"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare.py",
+      "imports": [
+        "hashlib",
+        "json",
+        "pathlib",
+        "shutil",
+        "xml.etree.ElementTree",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare_geometry.py",
+      "imports": [
+        "argparse",
+        "build",
+        "traceback"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare_japanese.py",
+      "imports": [
+        "build",
+        "json",
+        "pathlib",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/recover_export_48.py",
+      "imports": [
+        "build"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/review_sample.py",
+      "imports": [
+        "build",
+        "json",
+        "openpyxl",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/dell1080_20260908/transfer_japanese.py",
+      "imports": [
+        "argparse",
+        "build",
+        "json"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/batch.py",
+      "imports": [
+        "controller",
+        "ui"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/controller.py",
+      "imports": [
+        "argparse",
+        "json",
+        "os",
+        "pathlib",
+        "time",
+        "uuid"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/guest_agent.py",
+      "imports": [
+        "PIL",
+        "ctypes",
+        "hashlib",
+        "json",
+        "msvcrt",
+        "os",
+        "pathlib",
+        "pywinauto",
+        "pywinauto.controls.uiawrapper",
+        "pywinauto.uia_defines",
+        "pywinauto.uia_element_info",
+        "shutil",
+        "sys",
+        "time",
+        "traceback",
+        "uuid",
+        "win32api",
+        "win32clipboard",
+        "win32con",
+        "win32gui",
+        "win32process",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/production.py",
+      "imports": [
+        "ui"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/prolab.py",
+      "imports": [
+        "controller",
+        "ui"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/runner.py",
+      "imports": [
+        "controller",
+        "json",
+        "time",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/local_automation/ui.py",
+      "imports": [
+        "argparse",
+        "controller",
+        "json",
+        "time"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/check_native_project.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "json",
+        "math",
+        "pathlib",
+        "re"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/read_tracker_config.py",
+      "imports": [
+        "argparse",
+        "datetime",
+        "json",
+        "pathlib",
+        "sys",
+        "tobii_research"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/verify_package.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "hashlib",
+        "json",
+        "pathlib",
+        "posixpath",
+        "re",
+        "struct",
+        "sys",
+        "xml.etree.ElementTree",
+        "zipfile",
+        "zlib"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/assemble_package.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "copy",
+        "csv",
+        "hashlib",
+        "json",
+        "openpyxl",
+        "pathlib",
+        "shutil",
+        "subprocess",
+        "sys",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/angular_geometry.py",
+      "imports": [
+        "json",
+        "math",
+        "pathlib"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/check_native_project.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "json",
+        "math",
+        "pathlib",
+        "re"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/read_tracker_config.py",
+      "imports": [
+        "argparse",
+        "datetime",
+        "json",
+        "pathlib",
+        "sys",
+        "tobii_research"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/baseline_inputs/05_QA/verify_package.py",
+      "imports": [
+        "argparse",
+        "collections",
+        "hashlib",
+        "json",
+        "pathlib",
+        "posixpath",
+        "re",
+        "struct",
+        "sys",
+        "xml.etree.ElementTree",
+        "zipfile",
+        "zlib"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/finalize_release.py",
+      "imports": [
+        "argparse",
+        "assemble_package",
+        "collections",
+        "hashlib",
+        "json",
+        "pathlib",
+        "shutil",
+        "subprocess",
+        "sys",
+        "tempfile",
+        "zipfile"
+      ]
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/compare_materials.py",
+      "imports": [
+        "collections",
+        "hashlib",
+        "json",
+        "openpyxl",
+        "pathlib",
+        "re"
+      ]
+    }
+  ],
+  "note": "Static imports regenerated for retained code. Host package versions are the relevant subset of the historical snapshot, including executor packaging support; diagnostic packages are retained separately. This is not a newly resolved or installation-tested lockfile. Pure source inspection does not need the Windows runtime."
+}

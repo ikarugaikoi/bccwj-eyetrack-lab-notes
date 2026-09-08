@@ -1,0 +1,378 @@
+{
+  "edition": "Final DELL automation public-review extract, 2026-09-09",
+  "retained_file_count": 155,
+  "retained_python_files": 30,
+  "shared_function_extraction": [
+    {
+      "path": "workspace/local_automation/production.py",
+      "retained_functions": [
+        "descendants",
+        "verify_container_ui",
+        "set_panel",
+        "open_editor"
+      ],
+      "retained_functions_source_identical": true,
+      "removed_top_level_functions": [
+        "add_group",
+        "audit_all_container_ui",
+        "bind_column",
+        "bind_geometry",
+        "black_background",
+        "build_bound_group",
+        "fixed_source",
+        "group_native_qa",
+        "native_item_summary",
+        "report_step",
+        "set_edit",
+        "set_scoped_edit",
+        "set_toggle",
+        "show",
+        "stimulus_properties"
+      ],
+      "pre_extraction_sha256": "3dec975dd453d2246cdba61fd03e2a87a0a158ef56b6033c4f245580bdd0babf"
+    },
+    {
+      "path": "workspace/local_automation/batch.py",
+      "retained_functions": [
+        "exact_dialog"
+      ],
+      "retained_functions_source_identical": true,
+      "removed_top_level_functions": [
+        "blueprint",
+        "choose_group",
+        "export_and_audit",
+        "native_clone",
+        "remap_group",
+        "remap_pages",
+        "scroll_to",
+        "update_table",
+        "verify_table"
+      ],
+      "pre_extraction_sha256": "03a099f83bed4ce1af2e55534baf9f4e9f0add801aea87b6914d66e1786b6501"
+    },
+    {
+      "path": "workspace/local_automation/runner.py",
+      "retained_functions": [
+        "write",
+        "normalize",
+        "read_design"
+      ],
+      "retained_functions_source_identical": true,
+      "removed_top_level_functions": [
+        "qa_test",
+        "reopen",
+        "run"
+      ],
+      "pre_extraction_sha256": "03fb2ecf443434e55fa640daf5eb8485bba1e924b673a81d9793a70fc06fd410"
+    },
+    {
+      "path": "workspace/local_automation/prolab.py",
+      "retained_functions": [
+        "submit_dialog"
+      ],
+      "retained_functions_source_identical": true,
+      "removed_top_level_functions": [
+        "ensure_subset",
+        "set_filter_values",
+        "subset_control"
+      ],
+      "pre_extraction_sha256": "c67b5c20042b1b2bd99a3c477aa2072ff0a97730019095764df4be18df4e48e1"
+    },
+    {
+      "path": "workspace/local_automation/controller.py",
+      "retained_functions": [
+        "command",
+        "main"
+      ],
+      "retained_functions_source_identical": true,
+      "removed_top_level_functions": [
+        "vision"
+      ],
+      "pre_extraction_sha256": "89c4e94ca7e479039f45b122da761f7941121573ac72043bb0b086e6a19c87f7"
+    }
+  ],
+  "this_step_removed_files": [
+    "workspace/local_automation/benchmark_uia.py",
+    "workspace/local_automation/validate_batch_assumptions.py",
+    "workspace/local_automation/test_failover.py",
+    "workspace/local_automation/service.py",
+    "workspace/local_automation/monitor.py",
+    "workspace/local_automation/monitor.html",
+    "workspace/local_automation/vision_config.json",
+    "workspace/local_automation/START_LOCAL.cmd",
+    "workspace/local_automation/RUN_ACCEPTANCE.cmd",
+    "workspace/local_automation/recipes/acceptance.json",
+    "workspace/local_automation/deployment_manifest.json",
+    "workspace/verify_native_backup.py"
+  ],
+  "new_local_backup_created": false,
+  "source_masking_report_sha256": "896f03b1035ec4e1a254f8188ca4ea425460d43234d5b192fd99182458a4be3e",
+  "private_reversal_mapping_included": false,
+  "retained_historical_masking_changes": [
+    {
+      "path": "README.md",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "SOURCE_INDEX.json",
+      "changes": {
+        "LOCAL_PATH": 288
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/PRECISION_INCIDENT.md",
+      "changes": {
+        "LOCAL_ID": 1
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/audit_full_backup.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/build.py",
+      "changes": {
+        "LOCAL_PATH": 3
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/complete_delivery.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/finalize_delivery.py",
+      "changes": {
+        "LOCAL_PATH": 3
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/import_compat.mjs",
+      "changes": {
+        "LOCAL_PATH": 2
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/inspect_import_precision.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/name_mapping.json",
+      "changes": {
+        "LOCAL_PATH": 84
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare.py",
+      "changes": {
+        "LOCAL_PATH": 3
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/queue.json",
+      "changes": {
+        "LOCAL_PATH": 255
+      }
+    },
+    {
+      "path": "workspace/dell1080_20260908/transfer_japanese.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/local_automation/README.md",
+      "changes": {
+        "LOCAL_ID": 1,
+        "LOCAL_PATH": 5
+      }
+    },
+    {
+      "path": "workspace/local_automation/batch.py",
+      "changes": {
+        "LOCAL_PATH": 8
+      }
+    },
+    {
+      "path": "workspace/local_automation/bridge/scope.json",
+      "changes": {
+        "LOCAL_PATH": 419
+      }
+    },
+    {
+      "path": "workspace/local_automation/guest_agent.py",
+      "changes": {
+        "LOCAL_PATH": 2
+      }
+    },
+    {
+      "path": "workspace/local_automation/production.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/local_automation/recipes/production_queue.json",
+      "changes": {
+        "LOCAL_PATH": 252
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/INSTRUCTION_TEXTS.json",
+      "changes": {
+        "TEXT": 66
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/QUESTION_SCORING_P_TRUE_Q_FALSE.json",
+      "changes": {
+        "TEXT": 40
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/REBUILD_REQUIREMENTS.md",
+      "changes": {
+        "TEXT": 1
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/RECOVERY_TEXT_REVIEW.md",
+      "changes": {
+        "TEXT": 14
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/PROJECTS_JA.json",
+      "changes": {
+        "TEXT": 126
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/PROJECTS_ZH.json",
+      "changes": {
+        "TEXT": 126
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/CHECKER_USAGE.md",
+      "changes": {
+        "LOCAL_PATH": 3
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/EXPECTED_PROJECTS_QA_ONLY.json",
+      "changes": {
+        "TEXT": 252
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/RETURN_PACKAGE.md",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/check_native_project.py",
+      "changes": {
+        "LOCAL_PATH": 1,
+        "TEXT": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/read_tracker_config.py",
+      "changes": {
+        "LOCAL_PATH": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/verify_package.py",
+      "changes": {
+        "LOCAL_PATH": 1,
+        "TEXT": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/assemble_package.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/angular_geometry.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/check_native_project.py",
+      "changes": {
+        "LOCAL_PATH": 1,
+        "TEXT": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/read_tracker_config.py",
+      "changes": {
+        "LOCAL_PATH": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/baseline_inputs/05_QA/verify_package.py",
+      "changes": {
+        "LOCAL_PATH": 1,
+        "TEXT": 2
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/finalize_release.py",
+      "changes": {
+        "LOCAL_PATH": 1
+      }
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/compare_materials.py",
+      "changes": {
+        "LOCAL_PATH": 2
+      }
+    }
+  ],
+  "static_verification": {
+    "python_and_spec_syntax": "PASS",
+    "json_parse": "PASS",
+    "shared_module_import_symbols": "PASS",
+    "shared_function_global_symbols": "PASS",
+    "retained_function_source_equality": "PASS"
+  },
+  "scope_note": "Publication cleanup only. Removed unused legacy scenario functions, component acceptance tests and local visual-model/monitor services. Preserved the complete guest executor and safety checks, DELL diagnostic history, migration source state and final material assembly dependencies. Historical masking entries are provenance, not a new full copyright audit.",
+  "windows_or_hardware_reexecution": false,
+  "scan_limits": "Checked all decoded Python/JSON strings and raw text. Japanese text, exact material units, normalized material substrings of at least eight characters, known absolute path forms and known local identities were checked. This is not proof against every paraphrase, encoded payload, relative path, or unknown source outside the available inputs.",
+  "dell_executable_files_unchanged": true,
+  "documentation_review": {
+    "markdown_files_checked": 97,
+    "markdown_files_translated": 97,
+    "blueprint_files_checked": 84,
+    "language": "en",
+    "blueprint_data_rows_and_identifiers_preserved": true,
+    "powershell_examples_preserved": true,
+    "masked_tokens_preserved": true,
+    "markdown_links": "PASS",
+    "scope": "English documentation throughout, including both ZH and JA project blueprint directories. Experimental language identifiers, script/configuration files, and masked source text remain unchanged."
+  },
+  "publication_cleanup_20260909": {
+    "removed_unlisted_files": [
+      "workspace/.DS_Store"
+    ],
+    "added_files": [
+      ".gitignore"
+    ],
+    "ignore_scope": "macOS Finder .DS_Store files in all directories",
+    "executable_files_changed": false
+  }
+}

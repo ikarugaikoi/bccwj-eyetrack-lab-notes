@@ -28,13 +28,14 @@ README.md
 zh/YYYY-MM-DD_01.md
 ja/YYYY-MM-DD_01.md
 en/YYYY-MM-DD_01.md
+scripts/20260909/README.md
 ```
 
-Files with the same name refer to the same session. `_01`, `_02`, etc. distinguish sessions on the same date. New entries are added to the table above, newest first. A `scripts/` directory will be added when scripts are published.
+Files with the same name refer to the same session. `_01`, `_02`, etc. distinguish sessions on the same date. New entries are added to the table above, newest first. Build-script snapshots are stored under `scripts/` by date.
 
-同名のファイルは同一セッションの記録です。同日に複数のセッションがある場合は `_01`、`_02` などで区別します。新しい記録は上の一覧に日付の新しい順で追加します。スクリプト公開時に `scripts/` ディレクトリを追加します。
+同名のファイルは同一セッションの記録です。同日に複数のセッションがある場合は `_01`、`_02` などで区別します。新しい記録は上の一覧に日付の新しい順で追加します。構築スクリプトは `scripts/` に日付別で保存します。
 
-同名文件对应同一场次，同日多场以 `_01`、`_02` 等区分。新日志按日期倒序加入上方索引；脚本发布时再添加 `scripts/` 目录。
+同名文件对应同一场次，同日多场以 `_01`、`_02` 等区分。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
 
 Translations carry a human-review status. The Japanese and English translations for 2026-09-04 and 2026-09-07 have **not yet been reviewed by a human**; publication does not change that status.
 
@@ -44,8 +45,8 @@ Translations carry a human-review status. The Japanese and English translations 
 
 ## Scripts · スクリプト · 脚本
 
-Scripts for rebuilding the experiment workflow are pending upload.
+The [masked Tobii project build scripts (2026-09-09)](scripts/20260909/README.md) have been uploaded. The bundle contains source code and configuration documentation; corpus text, stimulus images, and native projects are not included.
 
-実験手順の再構築に使用するスクリプトは、後日アップロード予定です。
+[Tobii プロジェクト構築スクリプト（2026-09-09 マスキング版）](scripts/20260909/README.md)を公開しました。ソースコードと設定資料を収録し、コーパス本文、刺激画像、ネイティブプロジェクトは含みません。
 
-用于重新搭建实验流程的脚本暂待上传。
+[Tobii project 搭建脚本（2026-09-09 脱敏版）](scripts/20260909/README.md)已上传，包含源码和配置文档，不含语料正文、刺激图片或原生工程。

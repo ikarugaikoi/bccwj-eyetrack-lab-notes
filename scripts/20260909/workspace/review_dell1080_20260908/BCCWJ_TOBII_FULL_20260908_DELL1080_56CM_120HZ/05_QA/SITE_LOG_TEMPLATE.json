@@ -1,0 +1,110 @@
+{
+  "notice": "Template only. Null means unmeasured or not yet recorded, never zero. Proposed values are not observations. Use an anonymous participant code; no recruitment contact information.",
+  "proposed_profile": {
+    "profile_id": "DELL238_FHD_56CM_FUSION120_20260908",
+    "assumed_display_mm": [
+      527,
+      296
+    ],
+    "presentation_pixels": [
+      1920,
+      1080
+    ],
+    "MAIN_WHXY": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "DOT_WHXY": [
+      0.05,
+      0.07777778,
+      0.01,
+      0.06666667
+    ],
+    "eye_to_screen_plane_perpendicular_target_mm": 560,
+    "gaze_frequency_hz": 120,
+    "status": "PROPOSED_NOT_VERIFIED",
+    "tracker_hardware_model_confirmed": "Tobii Pro Fusion 120"
+  },
+  "session": {
+    "date": null,
+    "participant_code": null,
+    "condition": null,
+    "language": null,
+    "half": null,
+    "segment": null,
+    "project_logical_name": null,
+    "project_actual_name": null,
+    "recording_name": null,
+    "start_article": null,
+    "last_completed_article": null,
+    "complete_or_interrupted": null,
+    "interrupted_article": null,
+    "interrupted_article_reading_was_exposed": null,
+    "previous_segment_recording": null,
+    "end_key_observed": null
+  },
+  "observed_display": {
+    "make_model": null,
+    "label_photo": null,
+    "effective_width_mm_measured": null,
+    "effective_height_mm_measured": null,
+    "measurement_method_and_uncertainty": null,
+    "windows_display_number": null,
+    "desktop_pixels": null,
+    "active_signal_pixels": null,
+    "windows_scale_percent": null,
+    "refresh_hz_as_reported": null,
+    "pro_lab_presentation_pixels": null,
+    "display_setup_profile": null,
+    "sdk_or_native_display_area_file": null,
+    "main_actual_pixel_rectangle_xywh": null,
+    "dot_actual_pixel_rectangle_xywh": null,
+    "osd_mode_brightness_contrast": null,
+    "white_luminance_cd_m2_measured": null,
+    "room_lighting_reflections": null,
+    "presentation_latency_setting_microseconds": null,
+    "latency_independently_measured": null
+  },
+  "observed_tracker_and_seating": {
+    "model": null,
+    "serial_number": null,
+    "pro_lab_version": null,
+    "manager_version": null,
+    "gaze_frequency_hz": null,
+    "available_frequencies_hz": null,
+    "mounting_photo": null,
+    "screen_tracker_offsets_mm_and_reference_diagram": null,
+    "eye_midpoint_to_screen_plane_perpendicular_mm_start": null,
+    "eye_midpoint_to_screen_plane_perpendicular_mm_after_calibration": null,
+    "eye_to_tracker_mm_left": null,
+    "eye_to_tracker_mm_right": null,
+    "glasses_or_contacts": null,
+    "head_support": null,
+    "posture_or_glasses_changes": null
+  },
+  "checks": {
+    "static_checker_report": null,
+    "full_image_1_to_1_no_crop": null,
+    "dot_layer_and_use_as_aoi_checked": null,
+    "gaze_on_dot_advances": null,
+    "gaze_outside_does_not_advance": null,
+    "separate_short_glances_do_not_accumulate": null,
+    "ordinary_page_no_automatic_advance": null,
+    "space_q_p_7_and_incorrect_answer_tested": null,
+    "actual_recovery_save_recalibrate_restart_tested": null,
+    "actual_120hz_timestamp_test": null,
+    "researcher_confirmed_pilot_qc_policy": null,
+    "overall_status": "NOT_VERIFIED"
+  },
+  "calibration_attempts": [],
+  "local_position_check": {
+    "method_visual_or_quantitative": null,
+    "result_file": null,
+    "limitations": null
+  },
+  "events_and_deviations": [],
+  "evidence_files": [],
+  "unverified_items": []
+}

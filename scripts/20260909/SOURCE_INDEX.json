@@ -1,0 +1,1206 @@
+{
+  "original_workspace": "__MASKED_LOCAL_PATH_0002__",
+  "files": [
+    {
+      "path": "workspace/local_automation/batch.py",
+      "source_path": "__MASKED_LOCAL_PATH_0005__",
+      "category": "local_authored_python",
+      "bytes": 322,
+      "sha256": "214aab8171b204230a663995dffde625cbdfeb1da2f36bd82f03b9c477938af2",
+      "content_state": "dell_publication_dependency_extract",
+      "pre_extraction_sha256": "03a099f83bed4ce1af2e55534baf9f4e9f0add801aea87b6914d66e1786b6501"
+    },
+    {
+      "path": "workspace/local_automation/controller.py",
+      "source_path": "__MASKED_LOCAL_PATH_0009__",
+      "category": "local_authored_python",
+      "bytes": 1805,
+      "sha256": "25cf7933bdf998ae20317a80dc547bf19a5ca57876eeef29fce240f49d1b3049",
+      "content_state": "dell_publication_dependency_extract",
+      "pre_extraction_sha256": "89c4e94ca7e479039f45b122da761f7941121573ac72043bb0b086e6a19c87f7"
+    },
+    {
+      "path": "workspace/local_automation/guest_agent.py",
+      "source_path": "__MASKED_LOCAL_PATH_0012__",
+      "category": "local_authored_python",
+      "bytes": 19796,
+      "sha256": "776f08fae7382673d9137c37991f801e1cce3cf1caf667cd30914331c7584f1f",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/local_automation/production.py",
+      "source_path": "__MASKED_LOCAL_PATH_0017__",
+      "category": "local_authored_python",
+      "bytes": 1360,
+      "sha256": "96033b399e91b84a42261b917549f3e5b949fec76b69de95cddbd2715215ed36",
+      "content_state": "dell_publication_dependency_extract",
+      "pre_extraction_sha256": "3dec975dd453d2246cdba61fd03e2a87a0a158ef56b6033c4f245580bdd0babf"
+    },
+    {
+      "path": "workspace/local_automation/prolab.py",
+      "source_path": "__MASKED_LOCAL_PATH_0018__",
+      "category": "local_authored_python",
+      "bytes": 536,
+      "sha256": "66a756c8eb457be72dccfe4ccc1ef2ef116702ac7266dcfd8d08f2e9e89fc4bf",
+      "content_state": "dell_publication_dependency_extract",
+      "pre_extraction_sha256": "c67b5c20042b1b2bd99a3c477aa2072ff0a97730019095764df4be18df4e48e1"
+    },
+    {
+      "path": "workspace/local_automation/runner.py",
+      "source_path": "__MASKED_LOCAL_PATH_0022__",
+      "category": "local_authored_python",
+      "bytes": 1397,
+      "sha256": "05ebba55a0efb38db900a174f5c4078109b9899ee335f2f73c1eafeab12bb172",
+      "content_state": "dell_publication_dependency_extract",
+      "pre_extraction_sha256": "03fb2ecf443434e55fa640daf5eb8485bba1e924b673a81d9793a70fc06fd410"
+    },
+    {
+      "path": "workspace/local_automation/ui.py",
+      "source_path": "__MASKED_LOCAL_PATH_0025__",
+      "category": "local_authored_python",
+      "bytes": 1934,
+      "sha256": "149fe467ad0e2ad0a4e5cc9daf8aad4f238946b0c58099fe63a540390e546126",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/acceptance.py",
+      "source_path": "__MASKED_LOCAL_PATH_0027__",
+      "category": "local_authored_python",
+      "bytes": 956,
+      "sha256": "9f2ecf30612e14abbfa28215bba14b305da08fa9e649559909166ae0ad19c812",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/audit_full_backup.py",
+      "source_path": "__MASKED_LOCAL_PATH_0028__",
+      "category": "local_authored_python",
+      "bytes": 12655,
+      "sha256": "f78bb81e596e9123bb3ab5a39eb7ae688d85fd21e7bc15648f2a8d161e648c4e",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/build.py",
+      "source_path": "__MASKED_LOCAL_PATH_0029__",
+      "category": "local_authored_python",
+      "bytes": 20981,
+      "sha256": "94a43d69cf03081a2d3a459793d0de76fe090d2e0858a12084e51707922e53a4",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/complete_delivery.py",
+      "source_path": "__MASKED_LOCAL_PATH_0030__",
+      "category": "local_authored_python",
+      "bytes": 3917,
+      "sha256": "2f5e60789d69e3d003cc2e97c549f1cf9d9902563b98f2b6a9a5e41e83fb3aaf",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/continue_pipeline.py",
+      "source_path": "__MASKED_LOCAL_PATH_0031__",
+      "category": "local_authored_python",
+      "bytes": 3201,
+      "sha256": "509477705431fc64bfed63af47a17b6e1ece94450207f6bb13b2468e2f4b180d",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/finalize_delivery.py",
+      "source_path": "__MASKED_LOCAL_PATH_0032__",
+      "category": "local_authored_python",
+      "bytes": 7297,
+      "sha256": "4ea29ccc19c327ebbd07a9685b139012045434ee0bb4b55c283fad6d30f6d31a",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/inspect_import_precision.py",
+      "source_path": "__MASKED_LOCAL_PATH_0033__",
+      "category": "local_authored_python",
+      "bytes": 1935,
+      "sha256": "89f8ce00aff03c22e0b34f508c7f19bc120bb9b0f3450d1e101e86b7a68a9ad7",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare.py",
+      "source_path": "__MASKED_LOCAL_PATH_0034__",
+      "category": "local_authored_python",
+      "bytes": 3257,
+      "sha256": "f9fa95ef1e9a664e4095360e0e26fd0cfaf738ce286a2677991402be47e4ddf5",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare_geometry.py",
+      "source_path": "__MASKED_LOCAL_PATH_0035__",
+      "category": "local_authored_python",
+      "bytes": 1552,
+      "sha256": "dc030d7f4daaa971cf2fa48d2b0ba8611fb4705498b0ed95fe7d592539a8a7c3",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/prepare_japanese.py",
+      "source_path": "__MASKED_LOCAL_PATH_0036__",
+      "category": "local_authored_python",
+      "bytes": 1288,
+      "sha256": "3120ae497c6a3cbe065921fb279bd6b790237de30d3a1d3b893aa9882895ae00",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/recover_export_48.py",
+      "source_path": "__MASKED_LOCAL_PATH_0037__",
+      "category": "local_authored_python",
+      "bytes": 1668,
+      "sha256": "c3b44a36d3f384486118711aa3660d8e6918b23352ac64e554bd2dc1f83a0fc5",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/review_sample.py",
+      "source_path": "__MASKED_LOCAL_PATH_0038__",
+      "category": "local_authored_python",
+      "bytes": 2447,
+      "sha256": "c1a72378cc21cd87192ef2f655f3683af1a1c232515b4df8aa593b75977c5c4c",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/transfer_japanese.py",
+      "source_path": "__MASKED_LOCAL_PATH_0039__",
+      "category": "local_authored_python",
+      "bytes": 3351,
+      "sha256": "0e96d0427fee4fa09ff50cae1b4a176e3e3582c891790cbc544cdb4e0aea9d96",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/compare_materials.py",
+      "source_path": "__MASKED_LOCAL_PATH_0045__",
+      "category": "local_authored_python",
+      "bytes": 3656,
+      "sha256": "470ad78e2cba577396cc6c77a2f3b4700e607e2be7c790e4644777b0f2390ede",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/check_native_project.py",
+      "source_path": "__MASKED_LOCAL_PATH_0046__",
+      "category": "supplied_material_python_reference",
+      "bytes": 11760,
+      "sha256": "7637262ee8394e7c4d6b8632e92aaa964bb82da8ed900ecfffd625397afb8141",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/read_tracker_config.py",
+      "source_path": "__MASKED_LOCAL_PATH_0047__",
+      "category": "supplied_material_python_reference",
+      "bytes": 3877,
+      "sha256": "7eb89d7e43c8d10a195b079a0f1ba94d7ad36b964c4253cd22652a3d798a1a94",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/verify_package.py",
+      "source_path": "__MASKED_LOCAL_PATH_0048__",
+      "category": "supplied_material_python_reference",
+      "bytes": 22919,
+      "sha256": "fa5689230951b1021b535e34adb778eb166b8a94ffbd04cac263a25825ff12f6",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/assemble_package.py",
+      "source_path": "__MASKED_LOCAL_PATH_0053__",
+      "category": "supplied_material_python_reference",
+      "bytes": 21330,
+      "sha256": "e1416f46f1c10f3a2cbd677136213c8aad4894c1ee397aa90e8e4665f7060eda",
+      "content_state": "masked_archive_copy_edited_to_remove_legacy_entry_documentation_or_source_collection"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/angular_geometry.py",
+      "source_path": "__MASKED_LOCAL_PATH_0054__",
+      "category": "supplied_material_python_reference",
+      "bytes": 3242,
+      "sha256": "672a5e9e6e7be0481b460aae6b358491b5088a80adfd8f24c59cecbd496003bd",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/check_native_project.py",
+      "source_path": "__MASKED_LOCAL_PATH_0055__",
+      "category": "supplied_material_python_reference",
+      "bytes": 11760,
+      "sha256": "7637262ee8394e7c4d6b8632e92aaa964bb82da8ed900ecfffd625397afb8141",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/audit_inputs/read_tracker_config.py",
+      "source_path": "__MASKED_LOCAL_PATH_0056__",
+      "category": "supplied_material_python_reference",
+      "bytes": 3877,
+      "sha256": "7eb89d7e43c8d10a195b079a0f1ba94d7ad36b964c4253cd22652a3d798a1a94",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/baseline_inputs/05_QA/verify_package.py",
+      "source_path": "__MASKED_LOCAL_PATH_0057__",
+      "category": "supplied_material_python_reference",
+      "bytes": 22872,
+      "sha256": "c11f0bc7d87c195c5b92b43bd13b5a641ec429aa27c09c2e7c9c2a496ecd2761",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/08_BUILD_SOURCE/finalize_release.py",
+      "source_path": "__MASKED_LOCAL_PATH_0058__",
+      "category": "supplied_material_python_reference",
+      "bytes": 6301,
+      "sha256": "fa57c8ef1bb9f9fb36ca419ef238c5dc48a8f09a1b7d06fd45d2513f78c0b2b6",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/local_automation/README.md",
+      "source_path": "__MASKED_LOCAL_PATH_0060__",
+      "category": "configuration_or_documentation",
+      "bytes": 3129,
+      "sha256": "8cae1ccfcd2d7564ca485d58042f73cb81b1ccc244617b7b8ac9d24eb653420b",
+      "content_state": "english_publication_documentation",
+      "pre_extraction_sha256": "671416d1e27328a08efeb937b1c0837250561fd27a38a002a543c250bcbcec7c"
+    },
+    {
+      "path": "workspace/local_automation/requirements-lock.txt",
+      "source_path": "__MASKED_LOCAL_PATH_0061__",
+      "category": "configuration_or_documentation",
+      "bytes": 235,
+      "sha256": "a31a0f66e27737b16e34451948f9f26bfca1acec1e3b6fbf29ad71566c84c115",
+      "content_state": "dell_publication_documentation_or_dependency_subset",
+      "pre_extraction_sha256": "9602c540c9671b50508fb308fbe2817586125d4a813494959c8752cf570765d8"
+    },
+    {
+      "path": "workspace/local_automation/TobiiLocalAgent.spec",
+      "source_path": "__MASKED_LOCAL_PATH_0063__",
+      "category": "configuration_or_documentation",
+      "bytes": 714,
+      "sha256": "35d001bfd0106f892f4bab2f7aca7dce2c2e0677071331cb75af7d2aebf32db7",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/local_automation/PAUSE_LOCAL.cmd",
+      "source_path": "__MASKED_LOCAL_PATH_0066__",
+      "category": "configuration_or_documentation",
+      "bytes": 95,
+      "sha256": "5df658a5947ab456ea39d399320990f7a33c5be8a8040c832f3dd9b91fba77cd",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/local_automation/RESUME_LOCAL.cmd",
+      "source_path": "__MASKED_LOCAL_PATH_0067__",
+      "category": "configuration_or_documentation",
+      "bytes": 111,
+      "sha256": "09dfd01d02fafcd423d379cd0e4c40dd9df3f10210eddb5b083367c746487ca6",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/local_automation/bridge/scope.json",
+      "source_path": "__MASKED_LOCAL_PATH_0069__",
+      "category": "configuration_or_documentation",
+      "bytes": 25246,
+      "sha256": "36f3259afb4f96bd7fb7ff9793df16cc5ba715afec89368bedf2749bbaafd9b4",
+      "content_state": "masked_archive_copy_with_recording_backup_entries_removed"
+    },
+    {
+      "path": "workspace/local_automation/recipes/production_queue.json",
+      "source_path": "__MASKED_LOCAL_PATH_0071__",
+      "category": "configuration_or_documentation",
+      "bytes": 63920,
+      "sha256": "9149c0525e01ccaafcc03528bda1df4db1566d392ef5e7103388e0a0ad28f053",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/ACCEPTED_DEVIATION.json",
+      "source_path": "__MASKED_LOCAL_PATH_0074__",
+      "category": "configuration_or_documentation",
+      "bytes": 1152,
+      "sha256": "ffbff542909ba30c867bfacf0d1f609930f2656df8b33c009ef99d7e7adf1827",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/BUILD_STATUS.md",
+      "source_path": "__MASKED_LOCAL_PATH_0075__",
+      "category": "configuration_or_documentation",
+      "bytes": 588,
+      "sha256": "2f041e11d1b9918fe8983ac3aaee84a5a335b98fd75561373d26d235c4768719",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/dell1080_20260908/PRECISION_INCIDENT.md",
+      "source_path": "__MASKED_LOCAL_PATH_0076__",
+      "category": "configuration_or_documentation",
+      "bytes": 4400,
+      "sha256": "8e2ae3c4347cbc6710a295e8d9b18aaecdd8cd94c791d890201ef6fc9e9ec438",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/dell1080_20260908/name_mapping.json",
+      "source_path": "__MASKED_LOCAL_PATH_0077__",
+      "category": "configuration_or_documentation",
+      "bytes": 15850,
+      "sha256": "b5ced64f617014616838650f1faea57154a3e7f55fac0f080dfa80ea0f594285",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/queue.json",
+      "source_path": "__MASKED_LOCAL_PATH_0078__",
+      "category": "configuration_or_documentation",
+      "bytes": 225657,
+      "sha256": "cf9f4a503987b68c224f257cd63287f5e563817b96745bf1c7ddef7799248c8c",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/Restore-Projects.ps1",
+      "source_path": "__MASKED_LOCAL_PATH_0079__",
+      "category": "configuration_or_documentation",
+      "bytes": 2931,
+      "sha256": "a511ba6b46491b51903dd8e1afe2662b4fed3a79e51406857dfc30dade3ec310",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/dell1080_20260908/import_compat.mjs",
+      "source_path": "__MASKED_LOCAL_PATH_0080__",
+      "category": "configuration_or_documentation",
+      "bytes": 1501,
+      "sha256": "654e26a2cfe85ba06a10d328395c736d2be0e7531d59e1829f2f93d841fce607",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/BUILD_PARAMETERS.json",
+      "source_path": "__MASKED_LOCAL_PATH_0082__",
+      "category": "supplied_specification_reference",
+      "bytes": 4330,
+      "sha256": "c3fd6d086082dac147f2667eca19e2e48495ed0689c7766544ee97e73b24535a",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/DISPLAY_GEOMETRY.json",
+      "source_path": "__MASKED_LOCAL_PATH_0083__",
+      "category": "supplied_specification_reference",
+      "bytes": 4441,
+      "sha256": "fac7e5adec7c92e46ad8bf0b0256be8942411559143d3e62c85b67c66a1156ce",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/INSTRUCTION_TEXTS.json",
+      "source_path": "__MASKED_LOCAL_PATH_0084__",
+      "category": "supplied_specification_reference",
+      "bytes": 18604,
+      "sha256": "2caf34c52936b276c6817d3b7cb5d46d7af74d76f1abc9560495e45fdf2f8d4f",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/PROJECT_CATALOG.md",
+      "source_path": "__MASKED_LOCAL_PATH_0085__",
+      "category": "supplied_specification_reference",
+      "bytes": 10214,
+      "sha256": "e3521f80a9e76fb828e44b07e02f5ab1dacca753f83eeb4ab817050271b90629",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/QUESTION_SCORING_P_TRUE_Q_FALSE.json",
+      "source_path": "__MASKED_LOCAL_PATH_0086__",
+      "category": "supplied_specification_reference",
+      "bytes": 7505,
+      "sha256": "c8b81cdd532f8938ad4df53cdde77a09ec2965fac16044ae38779f605d91be93",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/REBUILD_REQUIREMENTS.md",
+      "source_path": "__MASKED_LOCAL_PATH_0087__",
+      "category": "supplied_specification_reference",
+      "bytes": 13273,
+      "sha256": "47af8bf44fbbcdcf436ba70d49ba0b4c979fcb72da236640af4b5dd9cb746d29",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/RECOVERY_POLICY.md",
+      "source_path": "__MASKED_LOCAL_PATH_0088__",
+      "category": "supplied_specification_reference",
+      "bytes": 3502,
+      "sha256": "74e64dfccf619132267c2aeb76c8e80c983b50cf54471002684ebd5848854aaf",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/03_SPEC/RECOVERY_TEXT_REVIEW.md",
+      "source_path": "__MASKED_LOCAL_PATH_0089__",
+      "category": "supplied_specification_reference",
+      "bytes": 1042,
+      "sha256": "3ae0a55e73274c90e5d74d9004eacf979f049885386b07fbe97134e84714f288",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/01_BCCWJ_EyeTrack_PRACTICE_A.md",
+      "source_path": "__MASKED_LOCAL_PATH_0090__",
+      "category": "supplied_specification_reference",
+      "bytes": 8426,
+      "sha256": "382237174a6d753b82338dc16ae4b830c9185c5b83d1b5011556bfdc23ec7af0",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/02_BCCWJ_EyeTrack_PRACTICE_B.md",
+      "source_path": "__MASKED_LOCAL_PATH_0091__",
+      "category": "supplied_specification_reference",
+      "bytes": 8431,
+      "sha256": "86388092b5b5ba4280d7d94b5874d3cb13d24f093efc6ef61f3a91a74470cacc",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/03_BCCWJ_EyeTrack_FORMAL_AB_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0092__",
+      "category": "supplied_specification_reference",
+      "bytes": 11246,
+      "sha256": "2fae2ba01adc4c3e0fe31285965af9b2a1303dc6915996691244cec7bbab32bf",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/04_BCCWJ_EyeTrack_FORMAL_AB_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0093__",
+      "category": "supplied_specification_reference",
+      "bytes": 11360,
+      "sha256": "ff3fc3e996d6ab4f26e80f042c13ff756740f490eb21f55a9ee07416e08a99f4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/05_BCCWJ_EyeTrack_FORMAL_BA_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0094__",
+      "category": "supplied_specification_reference",
+      "bytes": 11346,
+      "sha256": "0b74eaeb6d538b4359049af5a574699815ab835b7961b15d38b3e411cfd45af4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/06_BCCWJ_EyeTrack_FORMAL_BA_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0095__",
+      "category": "supplied_specification_reference",
+      "bytes": 11260,
+      "sha256": "f249b296b04dfd5ccfb823decd41de1971a865246c05540be6affef0aa2e843c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/07_BCCWJ_EyeTrack_FORMAL_CD_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0096__",
+      "category": "supplied_specification_reference",
+      "bytes": 11096,
+      "sha256": "18839f1d0838254a40175a606ccc825d24b7b71c2b7302a34c496cd0bf7618c7",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/08_BCCWJ_EyeTrack_FORMAL_CD_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0097__",
+      "category": "supplied_specification_reference",
+      "bytes": 11060,
+      "sha256": "ce4f5c6122489f3ef9eedabfe73d2291cd538ceb35f8ce909a9f3b07511f117e",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/09_BCCWJ_EyeTrack_FORMAL_DC_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0098__",
+      "category": "supplied_specification_reference",
+      "bytes": 11046,
+      "sha256": "9c3130b6c3daf64d0a34d30cc3ab2f507cb9dc8f9f191e99e7950e0ffa932b40",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/10_BCCWJ_EyeTrack_FORMAL_DC_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0099__",
+      "category": "supplied_specification_reference",
+      "bytes": 11110,
+      "sha256": "a90f8c47576ed391b66701363c753792147967d92f42e90cad319b3c4473d7c7",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/11_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0100__",
+      "category": "supplied_specification_reference",
+      "bytes": 9410,
+      "sha256": "4025ca2a7c36977c44d50818b9f342a48aa2957e289aaa503f798001277041f9",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/12_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0101__",
+      "category": "supplied_specification_reference",
+      "bytes": 7622,
+      "sha256": "2ee8df1f822e4efe519d09616e39c3ca5ce01a562e397b12ad226e095ee0b15d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/13_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0102__",
+      "category": "supplied_specification_reference",
+      "bytes": 5932,
+      "sha256": "d79e1e0247c4c5c56e988122b1f477ea9016fa28c1d7767603b9789d039bcba6",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/14_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0103__",
+      "category": "supplied_specification_reference",
+      "bytes": 4294,
+      "sha256": "b11e48b119fa7a74af613e2ee59d63b7ab7c05fdb48e4e70787291dd20fde175",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/15_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0104__",
+      "category": "supplied_specification_reference",
+      "bytes": 9555,
+      "sha256": "6058fc1bfbfbee0884c7ca148a4dc43c1a9b6084cb77b8bcaa62b2a50e3563a4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/16_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0105__",
+      "category": "supplied_specification_reference",
+      "bytes": 7718,
+      "sha256": "c8861a381d61f5ab4ec1fe70cd9d7805db4859e2c9d2276488d58fe14dc6c1f5",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/17_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0106__",
+      "category": "supplied_specification_reference",
+      "bytes": 5978,
+      "sha256": "489e984e52d7e039775282d03a5732f7ada0faf5a244dfdda2a9ee65b870191c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/18_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0107__",
+      "category": "supplied_specification_reference",
+      "bytes": 4240,
+      "sha256": "afe788d3d3aa4619221e5327af7bf2d68019dde144f14a024b2cb4413abc4522",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/19_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0108__",
+      "category": "supplied_specification_reference",
+      "bytes": 9559,
+      "sha256": "12e78de3a2640b716d43610b21c69f448ba79437860356ebe65ff897bed95d99",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/20_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0109__",
+      "category": "supplied_specification_reference",
+      "bytes": 7722,
+      "sha256": "c35eba0adf1c78bae21d1390aeaccf04c1c36e0b80a8b647a0bcfcb5b9c30ee7",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/21_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0110__",
+      "category": "supplied_specification_reference",
+      "bytes": 5982,
+      "sha256": "02f737b673ca31264ca2f0fc630c54ca59ed9b27e878dcb6032c2cebb1b2bda6",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/22_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0111__",
+      "category": "supplied_specification_reference",
+      "bytes": 4244,
+      "sha256": "9464ccf13033e7bd98b1a1b4aadc5921a1f11da0b329fed75d0e1006f07f45f1",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/23_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0112__",
+      "category": "supplied_specification_reference",
+      "bytes": 9406,
+      "sha256": "c638176da53397bbb358b5e41f522d97f939354ef7a458925351ddf0a4ca68dd",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/24_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0113__",
+      "category": "supplied_specification_reference",
+      "bytes": 7618,
+      "sha256": "f10bdc94463d076ed47a05fec716d6cb266c83361aa1d1bdcb70b437225a782b",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/25_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0114__",
+      "category": "supplied_specification_reference",
+      "bytes": 5928,
+      "sha256": "4042dc1859637fe399de50b8f9fe2606ddb99dc04d88696f8c9a8a2c8f94eb76",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/26_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0115__",
+      "category": "supplied_specification_reference",
+      "bytes": 4290,
+      "sha256": "1788e2419b59401ce562a9f0b4b1acd39ce1ef7b6da5a35a11f61554b379df0c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/27_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0116__",
+      "category": "supplied_specification_reference",
+      "bytes": 9407,
+      "sha256": "0c29ea7e07bd70b75fbf296dcf9ae842f18eb5965bed127502e9609ee5e6870d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/28_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0117__",
+      "category": "supplied_specification_reference",
+      "bytes": 7622,
+      "sha256": "8f875c92010622a4ee42bbdd13eef74ffaffc168a984c4a7c4825407d770e31f",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/29_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0118__",
+      "category": "supplied_specification_reference",
+      "bytes": 5882,
+      "sha256": "55a158fd44aec3f85f6e4cde932328e6a260f054632694347c71723880ae6df3",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/30_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0119__",
+      "category": "supplied_specification_reference",
+      "bytes": 4244,
+      "sha256": "680e911939e270eba24e5d70b1aed76203bccb2fadcc3fa224adc993c544f95d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/31_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0120__",
+      "category": "supplied_specification_reference",
+      "bytes": 9402,
+      "sha256": "15407427937ae5eb860de0446aa542f89a8f461a061dc16574247514db555074",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/32_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0121__",
+      "category": "supplied_specification_reference",
+      "bytes": 7617,
+      "sha256": "d3de94a2426ca6ee8a22bdbbbe7578f62f4b13370a46e6904bf86526f39d8f14",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/33_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0122__",
+      "category": "supplied_specification_reference",
+      "bytes": 5978,
+      "sha256": "67af680b52eb74c32a2a66b73f802cd1c174c3b55a0eed544fad779fb80cf982",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/34_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0123__",
+      "category": "supplied_specification_reference",
+      "bytes": 4340,
+      "sha256": "46a39b2d65a45db6c1ba1902deef8d5f14bfd51e397becff297306f3d97e406c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/35_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0124__",
+      "category": "supplied_specification_reference",
+      "bytes": 9406,
+      "sha256": "f3155975dc85c35101583f0066fcba66ee36545c50297b55a930e188cac76f3d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/36_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0125__",
+      "category": "supplied_specification_reference",
+      "bytes": 7621,
+      "sha256": "fa04618ed3ded4b6a2224a11fa24ce67932291f78912a4925830b12c0956c44c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/37_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0126__",
+      "category": "supplied_specification_reference",
+      "bytes": 5982,
+      "sha256": "9dc7a1ed399180820e3d57f089715a6b6a241c1d96eac7edb8a85d29a8c4045c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/38_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0127__",
+      "category": "supplied_specification_reference",
+      "bytes": 4344,
+      "sha256": "b6f9008e89414547f4ff1d0f803255ab60da0687583b763b4e445a9fed2d60fd",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/39_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0128__",
+      "category": "supplied_specification_reference",
+      "bytes": 9403,
+      "sha256": "d60989279abb343fa73257442a846397f1e50c55c3b6c222f6faa5c6079edfa9",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/40_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0129__",
+      "category": "supplied_specification_reference",
+      "bytes": 7618,
+      "sha256": "a53c942a404fe121671b2d6e80cb6b1117da93cee382a3691bf3801a1caf0a50",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/41_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0130__",
+      "category": "supplied_specification_reference",
+      "bytes": 5878,
+      "sha256": "3393b66db18cb0b5a0970b4ecef3cde6f0067d6bdd240b5522730e96e064b237",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/JA/42_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0131__",
+      "category": "supplied_specification_reference",
+      "bytes": 4240,
+      "sha256": "6e9c40f16cad037131aa8d5a5c0faaea68c2768fc5c10868cfceab5595ffb276",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/PROJECTS_JA.json",
+      "source_path": "__MASKED_LOCAL_PATH_0132__",
+      "category": "supplied_specification_reference",
+      "bytes": 1293873,
+      "sha256": "902f8dafc709b95d5ba404e8a638cbb34f124de5c74fffac4a66403ae023ba50",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/PROJECTS_ZH.json",
+      "source_path": "__MASKED_LOCAL_PATH_0133__",
+      "category": "supplied_specification_reference",
+      "bytes": 1293873,
+      "sha256": "c2900bf3baa416d5d59c504a67fbeb1fdc9bc07a9c43d6214d73d310b704371d",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/SELECTED_BUILD_PLAN.json",
+      "source_path": "__MASKED_LOCAL_PATH_0134__",
+      "category": "supplied_specification_reference",
+      "bytes": 166180,
+      "sha256": "aa747469b9353a938ef64eedc4be51a5ad2ae83865a216784aa41efac107132b",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/01_BCCWJ_EyeTrack_PRACTICE_A.md",
+      "source_path": "__MASKED_LOCAL_PATH_0135__",
+      "category": "supplied_specification_reference",
+      "bytes": 8426,
+      "sha256": "30d279fe88167ab24e3c3a5e361452bfcd79e0c418c5c2df40cea7cd308215fd",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/02_BCCWJ_EyeTrack_PRACTICE_B.md",
+      "source_path": "__MASKED_LOCAL_PATH_0136__",
+      "category": "supplied_specification_reference",
+      "bytes": 8431,
+      "sha256": "2ecc15a290dcff07469576f19c1a8b78a42f74337ab40da142f02b95617e1f6c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/03_BCCWJ_EyeTrack_FORMAL_AB_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0137__",
+      "category": "supplied_specification_reference",
+      "bytes": 11246,
+      "sha256": "a7cd2569263eb8cdbc82c0e6d32e84c3747a3a094e7a1cdab0f415f0c718471a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/04_BCCWJ_EyeTrack_FORMAL_AB_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0138__",
+      "category": "supplied_specification_reference",
+      "bytes": 11360,
+      "sha256": "b19b7e3920269a845abf4b89b74ae4dbc3907ce689f35706359cc7f3ff5f466c",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/05_BCCWJ_EyeTrack_FORMAL_BA_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0139__",
+      "category": "supplied_specification_reference",
+      "bytes": 11346,
+      "sha256": "b356361598b7754ae6ed31e1e6bb36e839fc4133812f524a3c9d3dcc519383a4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/06_BCCWJ_EyeTrack_FORMAL_BA_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0140__",
+      "category": "supplied_specification_reference",
+      "bytes": 11260,
+      "sha256": "3832d5f6cc12507419428c376c78352f38f741ed3b6bdcc938c6f60c0e310038",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/07_BCCWJ_EyeTrack_FORMAL_CD_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0141__",
+      "category": "supplied_specification_reference",
+      "bytes": 11096,
+      "sha256": "40017c2869e15b4cd9314c991d1604d7abf954f3328373e65eee365702cd4c33",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/08_BCCWJ_EyeTrack_FORMAL_CD_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0142__",
+      "category": "supplied_specification_reference",
+      "bytes": 11060,
+      "sha256": "2b5a8caf8405324aac0cd65e417f2ee79eef9aabb1de21fd0ccdea6091f03c4e",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/09_BCCWJ_EyeTrack_FORMAL_DC_H1.md",
+      "source_path": "__MASKED_LOCAL_PATH_0143__",
+      "category": "supplied_specification_reference",
+      "bytes": 11046,
+      "sha256": "0739706d727db72846d284bb9261b362f604644f6ed74228c8a2c5faebb7353a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/10_BCCWJ_EyeTrack_FORMAL_DC_H2.md",
+      "source_path": "__MASKED_LOCAL_PATH_0144__",
+      "category": "supplied_specification_reference",
+      "bytes": 11110,
+      "sha256": "43961e57bc2cab9681ee22bb236b0097d9421ad34014a8f06d1174d116991fa4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/11_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0145__",
+      "category": "supplied_specification_reference",
+      "bytes": 9410,
+      "sha256": "9c9aa803b836f3c6627cc8f4cfe2e24853d96f5193c2cf22d58b6895e8a606c1",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/12_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0146__",
+      "category": "supplied_specification_reference",
+      "bytes": 7622,
+      "sha256": "8c5afafb6b79154bd9013825bcc37bd2922fd8c78f0bdc3033e403f35879c769",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/13_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0147__",
+      "category": "supplied_specification_reference",
+      "bytes": 5932,
+      "sha256": "a70471bd9e5259f69f3fca521c06cc254e86d3136fdeaa4f4032168310cc5e3d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/14_BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0148__",
+      "category": "supplied_specification_reference",
+      "bytes": 4294,
+      "sha256": "fe9ad6735ab84e3dfd5a72068628cd4078fe2e8bf1e5126ac46c41532e9dc75a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/15_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0149__",
+      "category": "supplied_specification_reference",
+      "bytes": 9555,
+      "sha256": "f76ccacbe1d97ea63f468e92ca3bd63b2b5d2aac7fa1ff314861d18dd22b2ba6",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/16_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0150__",
+      "category": "supplied_specification_reference",
+      "bytes": 7718,
+      "sha256": "e56e58cbad6bebc183241fdb06be5e91877427ff9089e5e5b8c49058c2650386",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/17_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0151__",
+      "category": "supplied_specification_reference",
+      "bytes": 5978,
+      "sha256": "366a290ec9658e5b17f103b82941a31d6b29b42f16d9d0aaae0ace98bc2e333b",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/18_BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0152__",
+      "category": "supplied_specification_reference",
+      "bytes": 4240,
+      "sha256": "65ca94fe6e24061980027d63a83d09a51ea2796fca83c72398ea62b07bae7ad5",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/19_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0153__",
+      "category": "supplied_specification_reference",
+      "bytes": 9559,
+      "sha256": "57b34964a2d9f15518cdd436e611a1926d5602d064e6d264be849170cbac55b8",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/20_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0154__",
+      "category": "supplied_specification_reference",
+      "bytes": 7722,
+      "sha256": "1692e0f614d991eaeb079a7ba0c15b212f3e3da0dc4164440ab31c88f1ccb5d5",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/21_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0155__",
+      "category": "supplied_specification_reference",
+      "bytes": 5982,
+      "sha256": "9e9d9bc7351cc3a82805b0548f0fd27e2f53bf83e8641222fbdff062636c53ba",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/22_BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0156__",
+      "category": "supplied_specification_reference",
+      "bytes": 4244,
+      "sha256": "2070ce91ef174feafa29bebb308677ed461a1b65b5a033299ac528b1478b0355",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/23_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0157__",
+      "category": "supplied_specification_reference",
+      "bytes": 9406,
+      "sha256": "f890f52f254d0fe9a56fba7c6133f51a57ad32e90623de90d28558c9519900a4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/24_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0158__",
+      "category": "supplied_specification_reference",
+      "bytes": 7618,
+      "sha256": "41d19f8d396cc3dd4c9b4fa6c8496e57457315fe43ac69f2cf8b46b34d57448a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/25_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0159__",
+      "category": "supplied_specification_reference",
+      "bytes": 5928,
+      "sha256": "4021536502ace1029230a32cee0789bda75e6fba9d503e92ebec61aab510800f",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/26_BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0160__",
+      "category": "supplied_specification_reference",
+      "bytes": 4290,
+      "sha256": "8b75149ab9ff96ddcae5b0d014bc84fa1ddef93be3b67a0df3ea8e3325bd0d8a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/27_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0161__",
+      "category": "supplied_specification_reference",
+      "bytes": 9407,
+      "sha256": "96f789a4e0d691a8b46d6ff5d8d919ac8386263266c931bb48ec98bf8fc7afc0",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/28_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0162__",
+      "category": "supplied_specification_reference",
+      "bytes": 7622,
+      "sha256": "1b6d28f9e7f508955d014c4083fbfb45d8bd1161c9d808cec48d52c7d63d87de",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/29_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0163__",
+      "category": "supplied_specification_reference",
+      "bytes": 5882,
+      "sha256": "f74e3ef628c3710e9ce1b97f6ad127de75144bd3fc07a7eb085ff2ad6e63d1ea",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/30_BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0164__",
+      "category": "supplied_specification_reference",
+      "bytes": 4244,
+      "sha256": "94f7887cefc86792f506cce06a493be9aee0980320c477e0f33c7a6d6395b3f3",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/31_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0165__",
+      "category": "supplied_specification_reference",
+      "bytes": 9402,
+      "sha256": "63fa00ed3fda87acf552165e43a93a7496f7654b799fdfee97898ec56337d6dd",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/32_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0166__",
+      "category": "supplied_specification_reference",
+      "bytes": 7617,
+      "sha256": "3f7035aec647907aace2824a15b5a7943886bb0a3138319350f3996a0a956d1d",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/33_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0167__",
+      "category": "supplied_specification_reference",
+      "bytes": 5978,
+      "sha256": "682831449842b9fe2423a95591e065d47e37d22de7f6c17dae8a47d69124a597",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/34_BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0168__",
+      "category": "supplied_specification_reference",
+      "bytes": 4340,
+      "sha256": "a350d61efef52560c7f67ffcb4bd33f700c45164beffbd671fc941a252eb91bf",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/35_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0169__",
+      "category": "supplied_specification_reference",
+      "bytes": 9406,
+      "sha256": "63642bcd8b92d054ff176dd0bc91c7d79f4abbd94576b07d14c0b39119cb46c9",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/36_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0170__",
+      "category": "supplied_specification_reference",
+      "bytes": 7621,
+      "sha256": "cb0dbbcbcfd95f0c40febd3abe885191c6de41b700670015b81651ebe395057e",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/37_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0171__",
+      "category": "supplied_specification_reference",
+      "bytes": 5982,
+      "sha256": "a370648e5c607ed437168dc07e7a025f90796a0f308fab57811a77c626c3ade4",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/38_BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0172__",
+      "category": "supplied_specification_reference",
+      "bytes": 4344,
+      "sha256": "50465fd10dc0e4add5bf0c0b11d7bffa60507b095bcd647252663cfdc6d7f69a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/39_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C02.md",
+      "source_path": "__MASKED_LOCAL_PATH_0173__",
+      "category": "supplied_specification_reference",
+      "bytes": 9403,
+      "sha256": "8bb3cd3f09622958581de3e656cf56b4de3e787b592aca28391d147421cb1b03",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/40_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C03.md",
+      "source_path": "__MASKED_LOCAL_PATH_0174__",
+      "category": "supplied_specification_reference",
+      "bytes": 7618,
+      "sha256": "61ab339f45fbae1162f16bcaba66899ef2064158e0fb1c455d11d330f8941f49",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/41_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C04.md",
+      "source_path": "__MASKED_LOCAL_PATH_0175__",
+      "category": "supplied_specification_reference",
+      "bytes": 5878,
+      "sha256": "b3d57dc7064470ce2c0f73244c1a4d5e221349c2bd28286eeb2f25db00cd77dd",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/04_PROJECT_BLUEPRINTS/ZH/42_BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C05.md",
+      "source_path": "__MASKED_LOCAL_PATH_0176__",
+      "category": "supplied_specification_reference",
+      "bytes": 4240,
+      "sha256": "4490ac9a1428a7854ca5de54573bc2dd07829dd8b6618d0e6bcff144920ebb36",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/ACCEPTANCE_CHECKLIST.md",
+      "source_path": "__MASKED_LOCAL_PATH_0177__",
+      "category": "supplied_specification_reference",
+      "bytes": 3513,
+      "sha256": "f4bf84adb88e7058a29f1c622e93a7cc4e7a1acd8684a1216a1fddeab6cd8a2a",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/BUILD_PROGRESS_TEMPLATE.json",
+      "source_path": "__MASKED_LOCAL_PATH_0178__",
+      "category": "supplied_specification_reference",
+      "bytes": 43025,
+      "sha256": "422b1ce8df9f05d96fcc10ecbafa2227599672b04273659862ef053cf4a580d1",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/CHECKER_USAGE.md",
+      "source_path": "__MASKED_LOCAL_PATH_0179__",
+      "category": "supplied_specification_reference",
+      "bytes": 2237,
+      "sha256": "92ecdfcd807e0cb481559a839b82adacb8c4577dcd8979804ca9426aa7d12cb2",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/EXPECTED_PROJECTS_QA_ONLY.json",
+      "source_path": "__MASKED_LOCAL_PATH_0180__",
+      "category": "supplied_specification_reference",
+      "bytes": 2755359,
+      "sha256": "3467aa28a746e5128d0d0bb9a837aa19c604dd55865ae5fbbfddc560b3bcdad8",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/INCIDENT_LOG_TEMPLATE.json",
+      "source_path": "__MASKED_LOCAL_PATH_0181__",
+      "category": "supplied_specification_reference",
+      "bytes": 656,
+      "sha256": "348a80eba445ba9ade08c2366d1e84dc03b89a6d937d317aa778f2377be116e2",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/LANGUAGE_COPY_CHECKLIST.md",
+      "source_path": "__MASKED_LOCAL_PATH_0182__",
+      "category": "supplied_specification_reference",
+      "bytes": 3326,
+      "sha256": "8ab1e18b2c3c6a39e2ac2a74ce0a1b71e188eff6bcb5d0f983b202657713aac2",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/ONSITE_CHECKLIST.md",
+      "source_path": "__MASKED_LOCAL_PATH_0183__",
+      "category": "supplied_specification_reference",
+      "bytes": 5745,
+      "sha256": "79487369d7597191d4f453d336526efca65b28f8c012877e5a1e525ed6965272",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/RETURN_PACKAGE.md",
+      "source_path": "__MASKED_LOCAL_PATH_0184__",
+      "category": "supplied_specification_reference",
+      "bytes": 4636,
+      "sha256": "ad96fa1da10c90d94ffe093504842ee3574f43e56d531a31b2b846fef525ebcf",
+      "content_state": "english_publication_documentation"
+    },
+    {
+      "path": "workspace/review_dell1080_20260908/BCCWJ_TOBII_FULL_20260908_DELL1080_56CM_120HZ/05_QA/SITE_LOG_TEMPLATE.json",
+      "source_path": "__MASKED_LOCAL_PATH_0185__",
+      "category": "supplied_specification_reference",
+      "bytes": 3458,
+      "sha256": "3731cf82ad9125efd16cb1edaef2c2cbf7cef3a63e41eb0e9ad071145acba749",
+      "content_state": "masked_archive_copy"
+    },
+    {
+      "path": ".gitignore",
+      "source_path": ".gitignore",
+      "category": "publication_configuration",
+      "bytes": 52,
+      "sha256": "99228f293d553857f8edeb678bc01daf65a88cda70929f0c791d444337b71742",
+      "content_state": "added_20260909_for_finder_metadata_exclusion"
+    }
+  ],
+  "byte_identical_archived_copies": [],
+  "note": "Current public-review source edition. DELL executable files retain their archived content; shared modules contain the required functions with retained implementations unchanged. Markdown documentation is in English. Current file hashes and pre-extraction hashes identify their respective source editions."
+}

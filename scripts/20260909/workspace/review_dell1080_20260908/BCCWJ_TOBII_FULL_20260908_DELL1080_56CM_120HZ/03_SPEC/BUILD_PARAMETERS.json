@@ -1,0 +1,165 @@
+{
+  "layout": {
+    "MAIN": {
+      "W": 1,
+      "H": 1,
+      "X": 0,
+      "Y": 0
+    },
+    "DOT": {
+      "W": 0.05,
+      "H": 0.07777778,
+      "X": 0.01,
+      "Y": 0.06666667
+    }
+  },
+  "presets": {
+    "INSTRUCTION_SPACE": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "Space"
+      ]
+    },
+    "KEY_CHECK_P": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "P"
+      ]
+    },
+    "KEY_CHECK_Q": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "Q"
+      ]
+    },
+    "END_OPERATOR_7": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "7"
+      ]
+    },
+    "FIX": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": false,
+      "keys": []
+    },
+    "READ": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "Space"
+      ]
+    },
+    "QUESTION": {
+      "background": "#000000",
+      "show_mouse_cursor": false,
+      "min_presentation_time_enabled": true,
+      "min_presentation_time_ms": 100,
+      "send_ttl_markers": false,
+      "time_mode": "None",
+      "mouse_click": "None",
+      "look_away_enabled": false,
+      "media_end": "None",
+      "key_press_enabled": true,
+      "keys": [
+        "Q",
+        "P"
+      ],
+      "only_correct_key_advances": false
+    }
+  },
+  "calibration_build_configuration": {
+    "number_of_targets": 9,
+    "validate_calibration": true,
+    "randomize_target_point_order": true,
+    "target_type": "Point",
+    "calibration_type": "Timed",
+    "background": "#FFFFFF",
+    "target_color": "#000000",
+    "status": "build_configuration_confirm_on_site_before_collection",
+    "quality_acceptance_threshold": null
+  },
+  "native_hardware_verification_done": false,
+  "main_table_first_11_columns": [
+    "article_block",
+    "row_type",
+    "media_name",
+    "DOT_W",
+    "DOT_H",
+    "DOT_X",
+    "DOT_Y",
+    "MAIN_W",
+    "MAIN_H",
+    "MAIN_X",
+    "MAIN_Y"
+  ],
+  "profile_id": "DELL238_FHD_56CM_FUSION120_20260908",
+  "presentation_resolution": [
+    1920,
+    1080
+  ],
+  "assumed_display_mm": [
+    527,
+    296
+  ],
+  "actual_display_verified": false,
+  "eye_midpoint_to_screen_plane_target_mm": 560,
+  "tracker_model": "Tobii Pro Fusion 120",
+  "tracker_model_confirmed_by_lab": true,
+  "tracker_confirmation_source": "User relayed laboratory warranty hardware designation, 2026-09-08",
+  "recording_frequency_target_hz": 120,
+  "actual_recording_frequency_verified": false,
+  "continuous_gaze_semantics": "An effective valid gaze outside restarts continuous dwell; 34 ms reset is specifically data loss, not valid off-target grace."
+}

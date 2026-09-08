@@ -1,0 +1,450 @@
+{
+  "date": "2026-09-05",
+  "source_approved_text_sha256": "76f14b69eb278300fbad42005450ccce9f9921fefef140619b183c76262a59bf",
+  "languages": {
+    "ZH": {
+      "font_family": "SimSun",
+      "pages": [
+        {
+          "filename": "PRACTICE_00_welcome_ZH.png",
+          "body": "__MASKED_TEXT_0002__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "cca8abae13fcb8800d7b9e7b8757ff452b233c5d97efff107bfc7eafe083da08",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_00_welcome_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_01_reading_task_ZH.png",
+          "body": "__MASKED_TEXT_0004__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "b2b32886624e7d84a47537be0818f34c8718400db4732d663c6daca5236d5748",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_01_reading_task_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_02_question_keys_P_TRUE_Q_FALSE_ZH.png",
+          "body": "__MASKED_TEXT_0005__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "70ecf32b735c37606a0c8c6dc72799006e9397cebdc99741c0f06ed466e3393d",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_02_question_keys_P_TRUE_Q_FALSE_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_03_key_check_intro_ZH.png",
+          "body": "__MASKED_TEXT_0006__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "0dc6bae4cafa3620ff7247cd983cb4f1bcde002267fc8d5eb6322a25f3e083ae",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_03_key_check_intro_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_04_key_check_P_ZH.png",
+          "body": "__MASKED_TEXT_0007__",
+          "footer": "",
+          "expected_advance": "P only (adult participant key check)",
+          "sha256": "98530e88d989e2be1e3c20639f2081081abab331970331cd741885789d6aa570",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_04_key_check_P_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_05_key_check_Q_ZH.png",
+          "body": "__MASKED_TEXT_0008__",
+          "footer": "",
+          "expected_advance": "Q only (adult participant key check)",
+          "sha256": "f066611ee245e3177c97d26d7b1a94a8dc1d5c160d2cb8c3dbb9b13d3b7abc07",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_05_key_check_Q_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_06_practice_intro_ZH.png",
+          "body": "__MASKED_TEXT_0009__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "b93cfa05f9fc15c82b682833c1545113a3c5832ccc1702737f47447c5de4c512",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_06_practice_intro_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_07_calibration_intro_ZH.png",
+          "body": "__MASKED_TEXT_0010__",
+          "footer": "__MASKED_TEXT_0011__",
+          "expected_advance": "Space only",
+          "sha256": "416a73772977a4117e88ba28130bb795fab31c8951e61746b9e9a37c02b4e926",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_07_calibration_intro_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_08_fixation_intro_ZH.png",
+          "body": "__MASKED_TEXT_0012__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "sha256": "542202b6ee3c2d4e64c982e71b76585650ace905222283c1e5734b4d86d5e451",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_08_fixation_intro_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_09_start_ZH.png",
+          "body": "__MASKED_TEXT_0013__",
+          "footer": "__MASKED_TEXT_0014__",
+          "expected_advance": "Space only",
+          "sha256": "1441735a1a7e79c07e332633af59ed26f993ea0c781c8ab02bf235dfb9a1d4bf",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_09_start_ZH.png"
+        },
+        {
+          "filename": "PRACTICE_10_end_ZH.png",
+          "body": "__MASKED_TEXT_0015__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "19e3ecb7ca1d9141e551a6818b8d72db578726c397e387d6de8da5c5732a2cea",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/PRACTICE_10_end_ZH.png"
+        },
+        {
+          "filename": "FORMAL_00_intro_ZH.png",
+          "body": "__MASKED_TEXT_0016__",
+          "footer": "__MASKED_TEXT_0011__",
+          "expected_advance": "Space only",
+          "sha256": "cf42bd8906572b997f7909e638dddf8ac915b56140c85844145f53652bde6d1d",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_00_intro_ZH.png"
+        },
+        {
+          "filename": "FORMAL_01_start_and_break_notice_ZH.png",
+          "body": "__MASKED_TEXT_0017__",
+          "footer": "__MASKED_TEXT_0018__",
+          "expected_advance": "Space only",
+          "sha256": "d03356bb4dce4fcc2a6484cd0ed6b340fa491383b872a4814f79d08939604555",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_01_start_and_break_notice_ZH.png"
+        },
+        {
+          "filename": "FORMAL_02_break_ZH.png",
+          "body": "__MASKED_TEXT_0019__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "a46f28c5efaf2982fe81b1b957ab44db61edc5a2d8f760f152649ccffe2f24d3",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_02_break_ZH.png"
+        },
+        {
+          "filename": "FORMAL_03_recalibration_intro_ZH.png",
+          "body": "__MASKED_TEXT_0020__",
+          "footer": "__MASKED_TEXT_0021__",
+          "expected_advance": "Space only",
+          "sha256": "3f0342f92d43b1d8d808206d1e34a654874fd3ad1f1114c4af2be888efbb2272",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_03_recalibration_intro_ZH.png"
+        },
+        {
+          "filename": "FORMAL_04_second_half_start_ZH.png",
+          "body": "__MASKED_TEXT_0022__",
+          "footer": "__MASKED_TEXT_0023__",
+          "expected_advance": "Space only",
+          "sha256": "c3d8c362827367daacfa15d44f12b56f01c3b7e03af408ef18669bf3bd4077b8",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_04_second_half_start_ZH.png"
+        },
+        {
+          "filename": "FORMAL_05_end_ZH.png",
+          "body": "__MASKED_TEXT_0024__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "27668afc2f856133cdaac56d9d24ab0c75b6b45966d7390be1e93fe7e5bedfc1",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_ZH/FORMAL_05_end_ZH.png"
+        },
+        {
+          "filename": "RECOVERY_00_recalibration_intro_ZH.png",
+          "body": "__MASKED_TEXT_0025__",
+          "footer": "__MASKED_TEXT_0003__",
+          "expected_advance": "Space only",
+          "approval_status": "new_recovery_text_confirm_before_collection",
+          "relative_path": "01_MEDIA/instructions_ZH/RECOVERY_00_recalibration_intro_ZH.png",
+          "sha256": "d65d592f0fc8d644d566668419e07905d57c29a6acafe6413b0409312ad756fe",
+          "text_boxes_px": [
+            [
+              648.0,
+              306.0,
+              1272.0,
+              356.0
+            ],
+            [
+              622.0,
+              380.0,
+              1298.0,
+              429.0
+            ],
+            [
+              492.0,
+              486.0,
+              1428.0,
+              536.0
+            ],
+            [
+              696.0,
+              955.0,
+              1224.0,
+              986.0
+            ]
+          ]
+        },
+        {
+          "filename": "RECOVERY_01_continue_ZH.png",
+          "body": "__MASKED_TEXT_0026__",
+          "footer": "__MASKED_TEXT_0027__",
+          "expected_advance": "Space only",
+          "approval_status": "new_recovery_text_confirm_before_collection",
+          "relative_path": "01_MEDIA/instructions_ZH/RECOVERY_01_continue_ZH.png",
+          "sha256": "78ff5896c5b41b18ada2c2f737cce1f617ed73afa90b60b3f0ff5e7833a4be89",
+          "text_boxes_px": [
+            [
+              752.0,
+              343.0,
+              1168.0,
+              392.0
+            ],
+            [
+              518.0,
+              449.0,
+              1402.0,
+              498.0
+            ],
+            [
+              712.0,
+              955.0,
+              1208.0,
+              987.0
+            ]
+          ]
+        }
+      ]
+    },
+    "JA": {
+      "font_family": "MS Mincho",
+      "pages": [
+        {
+          "filename": "PRACTICE_00_welcome_JA.png",
+          "body": "__MASKED_TEXT_0028__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "64f80564d3e2d4988fbb54fd181b2d3d501055877a57e5b0b62668d00239f9e6",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_00_welcome_JA.png"
+        },
+        {
+          "filename": "PRACTICE_01_reading_task_JA.png",
+          "body": "__MASKED_TEXT_0030__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "de11f7e5a0b2942de8979b02dea086f9196326c5d0df5fa40995faf1ab48d73d",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_01_reading_task_JA.png"
+        },
+        {
+          "filename": "PRACTICE_02_question_keys_P_TRUE_Q_FALSE_JA.png",
+          "body": "__MASKED_TEXT_0031__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "72bba31fc6edd760b4c6d6b4fc3b759c5f88457aaca826145a0aedfed9d03cad",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_02_question_keys_P_TRUE_Q_FALSE_JA.png"
+        },
+        {
+          "filename": "PRACTICE_03_key_check_intro_JA.png",
+          "body": "__MASKED_TEXT_0032__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "b4c6eb98eb701d9b5d2e1fb953016500e5167284571dfc5b971546c6cde378ca",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_03_key_check_intro_JA.png"
+        },
+        {
+          "filename": "PRACTICE_04_key_check_P_JA.png",
+          "body": "__MASKED_TEXT_0033__",
+          "footer": "",
+          "expected_advance": "P only (adult participant key check)",
+          "sha256": "70d1286c1d3c4928efde7e029db82e8d31256f9e086c94a734a3b29fcf416767",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_04_key_check_P_JA.png"
+        },
+        {
+          "filename": "PRACTICE_05_key_check_Q_JA.png",
+          "body": "__MASKED_TEXT_0034__",
+          "footer": "",
+          "expected_advance": "Q only (adult participant key check)",
+          "sha256": "4d5d8b15ae4d57c435ee5e244f9a7e3f85343c87cd145b863eb968e9f5e3da91",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_05_key_check_Q_JA.png"
+        },
+        {
+          "filename": "PRACTICE_06_practice_intro_JA.png",
+          "body": "__MASKED_TEXT_0035__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "a805a15d5e5bc55c773e7223415dfb71fb92afa7f941035ce5dec01aef078556",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_06_practice_intro_JA.png"
+        },
+        {
+          "filename": "PRACTICE_07_calibration_intro_JA.png",
+          "body": "__MASKED_TEXT_0036__",
+          "footer": "__MASKED_TEXT_0037__",
+          "expected_advance": "Space only",
+          "sha256": "59f7fa62a6aa11e84306feb3a2d36933b235c912b46d523a3f3f6154e8dee7cd",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_07_calibration_intro_JA.png"
+        },
+        {
+          "filename": "PRACTICE_08_fixation_intro_JA.png",
+          "body": "__MASKED_TEXT_0038__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "sha256": "044c44e9250edb6b01ed82f70b282ddd9ba278df7c188b1fdb57bf686a55fac6",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_08_fixation_intro_JA.png"
+        },
+        {
+          "filename": "PRACTICE_09_start_JA.png",
+          "body": "__MASKED_TEXT_0039__",
+          "footer": "__MASKED_TEXT_0040__",
+          "expected_advance": "Space only",
+          "sha256": "e35d1402f580452cd43750478d222d4ca0ddc8637cd2bbc3410eb112b5867dd4",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_09_start_JA.png"
+        },
+        {
+          "filename": "PRACTICE_10_end_JA.png",
+          "body": "__MASKED_TEXT_0041__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "70f64de4e9249f1d59e04423638839ce15d3cd23b4c091fcf76882f674ec76ee",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/PRACTICE_10_end_JA.png"
+        },
+        {
+          "filename": "FORMAL_00_intro_JA.png",
+          "body": "__MASKED_TEXT_0042__",
+          "footer": "__MASKED_TEXT_0037__",
+          "expected_advance": "Space only",
+          "sha256": "9bbf73f229157417f458a5d63440632acd18b4f329a40db497a25ac59596362e",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_00_intro_JA.png"
+        },
+        {
+          "filename": "FORMAL_01_start_and_break_notice_JA.png",
+          "body": "__MASKED_TEXT_0043__",
+          "footer": "__MASKED_TEXT_0044__",
+          "expected_advance": "Space only",
+          "sha256": "d61e977c3155841ab015a6c88d75d6fe4d9c1de53ab3be499dbee40e2856c106",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_01_start_and_break_notice_JA.png"
+        },
+        {
+          "filename": "FORMAL_02_break_JA.png",
+          "body": "__MASKED_TEXT_0045__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "eb3f54059eb53ae9b7ef9095ed2d80dedb4908ee2b1e99a0955de051fa93e313",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_02_break_JA.png"
+        },
+        {
+          "filename": "FORMAL_03_recalibration_intro_JA.png",
+          "body": "__MASKED_TEXT_0046__",
+          "footer": "__MASKED_TEXT_0047__",
+          "expected_advance": "Space only",
+          "sha256": "60d524874948c5fa3cc4d26c5145b0d32aaba5b087752e9f1aca2807b0141588",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_03_recalibration_intro_JA.png"
+        },
+        {
+          "filename": "FORMAL_04_second_half_start_JA.png",
+          "body": "__MASKED_TEXT_0048__",
+          "footer": "__MASKED_TEXT_0049__",
+          "expected_advance": "Space only",
+          "sha256": "40b3709a3dc0c0906ff4620cfb4635499dd8780c7a5d59d2f5d5534cd5697e59",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_04_second_half_start_JA.png"
+        },
+        {
+          "filename": "FORMAL_05_end_JA.png",
+          "body": "__MASKED_TEXT_0050__",
+          "footer": "",
+          "expected_advance": "7 only (operator; not printed)",
+          "sha256": "a40021fa23b48b41e0427eb4518afc22e1156011dd16ef5ec6968341887daf35",
+          "approval_status": "approved_by_user_1",
+          "relative_path": "01_MEDIA/instructions_JA/FORMAL_05_end_JA.png"
+        },
+        {
+          "filename": "RECOVERY_00_recalibration_intro_JA.png",
+          "body": "__MASKED_TEXT_0051__",
+          "footer": "__MASKED_TEXT_0029__",
+          "expected_advance": "Space only",
+          "approval_status": "new_recovery_text_confirm_before_collection",
+          "relative_path": "01_MEDIA/instructions_JA/RECOVERY_00_recalibration_intro_JA.png",
+          "sha256": "7fa1ff2a1ee9a17f0407a38c58c529ba1a30685b93dd5af2f85b086fcedb30d7",
+          "text_boxes_px": [
+            [
+              622.0,
+              306.0,
+              1298.0,
+              355.0
+            ],
+            [
+              336.0,
+              380.0,
+              1584.0,
+              429.0
+            ],
+            [
+              284.0,
+              486.0,
+              1636.0,
+              536.0
+            ],
+            [
+              616.0,
+              955.0,
+              1304.0,
+              987.0
+            ]
+          ]
+        },
+        {
+          "filename": "RECOVERY_01_continue_JA.png",
+          "body": "__MASKED_TEXT_0052__",
+          "footer": "__MASKED_TEXT_0053__",
+          "expected_advance": "Space only",
+          "approval_status": "new_recovery_text_confirm_before_collection",
+          "relative_path": "01_MEDIA/instructions_JA/RECOVERY_01_continue_JA.png",
+          "sha256": "34713cd5f207c8c49c04bca34d93985f6275d23e4622ef11756656663232dc93",
+          "text_boxes_px": [
+            [
+              518.0,
+              343.0,
+              1402.0,
+              392.0
+            ],
+            [
+              362.0,
+              449.0,
+              1558.0,
+              499.0
+            ],
+            [
+              600.0,
+              955.0,
+              1320.0,
+              987.0
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

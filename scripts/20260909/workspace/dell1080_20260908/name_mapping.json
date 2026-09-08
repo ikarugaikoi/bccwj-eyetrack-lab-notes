@@ -1,0 +1,590 @@
+[
+  {
+    "sequence": 1,
+    "planned": "BCCWJ_EyeTrack_PRACTICE_A_ZH",
+    "actual": "D1080_PR_A_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0301__"
+  },
+  {
+    "sequence": 2,
+    "planned": "BCCWJ_EyeTrack_PRACTICE_B_ZH",
+    "actual": "D1080_PR_B_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0302__"
+  },
+  {
+    "sequence": 3,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_ZH",
+    "actual": "D1080_AB_H1_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0303__"
+  },
+  {
+    "sequence": 4,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_ZH",
+    "actual": "D1080_AB_H2_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0304__"
+  },
+  {
+    "sequence": 5,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_ZH",
+    "actual": "D1080_BA_H1_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0305__"
+  },
+  {
+    "sequence": 6,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_ZH",
+    "actual": "D1080_BA_H2_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0306__"
+  },
+  {
+    "sequence": 7,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_ZH",
+    "actual": "D1080_CD_H1_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0307__"
+  },
+  {
+    "sequence": 8,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_ZH",
+    "actual": "D1080_CD_H2_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0308__"
+  },
+  {
+    "sequence": 9,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_ZH",
+    "actual": "D1080_DC_H1_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0309__"
+  },
+  {
+    "sequence": 10,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_ZH",
+    "actual": "D1080_DC_H2_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0310__"
+  },
+  {
+    "sequence": 11,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A02_ZH",
+    "actual": "D1080_AB_H1_A02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0311__"
+  },
+  {
+    "sequence": 12,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A03_ZH",
+    "actual": "D1080_AB_H1_A03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0312__"
+  },
+  {
+    "sequence": 13,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A04_ZH",
+    "actual": "D1080_AB_H1_A04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0313__"
+  },
+  {
+    "sequence": 14,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A05_ZH",
+    "actual": "D1080_AB_H1_A05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0314__"
+  },
+  {
+    "sequence": 15,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B02_ZH",
+    "actual": "D1080_AB_H2_B02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0315__"
+  },
+  {
+    "sequence": 16,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B03_ZH",
+    "actual": "D1080_AB_H2_B03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0316__"
+  },
+  {
+    "sequence": 17,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B04_ZH",
+    "actual": "D1080_AB_H2_B04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0317__"
+  },
+  {
+    "sequence": 18,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B05_ZH",
+    "actual": "D1080_AB_H2_B05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0318__"
+  },
+  {
+    "sequence": 19,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B02_ZH",
+    "actual": "D1080_BA_H1_B02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0319__"
+  },
+  {
+    "sequence": 20,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B03_ZH",
+    "actual": "D1080_BA_H1_B03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0320__"
+  },
+  {
+    "sequence": 21,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B04_ZH",
+    "actual": "D1080_BA_H1_B04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0321__"
+  },
+  {
+    "sequence": 22,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B05_ZH",
+    "actual": "D1080_BA_H1_B05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0322__"
+  },
+  {
+    "sequence": 23,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A02_ZH",
+    "actual": "D1080_BA_H2_A02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0323__"
+  },
+  {
+    "sequence": 24,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A03_ZH",
+    "actual": "D1080_BA_H2_A03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0324__"
+  },
+  {
+    "sequence": 25,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A04_ZH",
+    "actual": "D1080_BA_H2_A04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0325__"
+  },
+  {
+    "sequence": 26,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A05_ZH",
+    "actual": "D1080_BA_H2_A05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0326__"
+  },
+  {
+    "sequence": 27,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C02_ZH",
+    "actual": "D1080_CD_H1_C02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0327__"
+  },
+  {
+    "sequence": 28,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C03_ZH",
+    "actual": "D1080_CD_H1_C03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0328__"
+  },
+  {
+    "sequence": 29,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C04_ZH",
+    "actual": "D1080_CD_H1_C04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0329__"
+  },
+  {
+    "sequence": 30,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C05_ZH",
+    "actual": "D1080_CD_H1_C05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0330__"
+  },
+  {
+    "sequence": 31,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D02_ZH",
+    "actual": "D1080_CD_H2_D02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0331__"
+  },
+  {
+    "sequence": 32,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D03_ZH",
+    "actual": "D1080_CD_H2_D03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0332__"
+  },
+  {
+    "sequence": 33,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D04_ZH",
+    "actual": "D1080_CD_H2_D04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0333__"
+  },
+  {
+    "sequence": 34,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D05_ZH",
+    "actual": "D1080_CD_H2_D05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0334__"
+  },
+  {
+    "sequence": 35,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D02_ZH",
+    "actual": "D1080_DC_H1_D02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0335__"
+  },
+  {
+    "sequence": 36,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D03_ZH",
+    "actual": "D1080_DC_H1_D03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0336__"
+  },
+  {
+    "sequence": 37,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D04_ZH",
+    "actual": "D1080_DC_H1_D04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0337__"
+  },
+  {
+    "sequence": 38,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D05_ZH",
+    "actual": "D1080_DC_H1_D05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0338__"
+  },
+  {
+    "sequence": 39,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C02_ZH",
+    "actual": "D1080_DC_H2_C02_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0339__"
+  },
+  {
+    "sequence": 40,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C03_ZH",
+    "actual": "D1080_DC_H2_C03_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0340__"
+  },
+  {
+    "sequence": 41,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C04_ZH",
+    "actual": "D1080_DC_H2_C04_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0341__"
+  },
+  {
+    "sequence": 42,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C05_ZH",
+    "actual": "D1080_DC_H2_C05_ZH",
+    "language": "ZH",
+    "guest_path": "__MASKED_LOCAL_PATH_0342__"
+  },
+  {
+    "sequence": 43,
+    "planned": "BCCWJ_EyeTrack_PRACTICE_A_JA",
+    "actual": "D1080_PR_A_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0343__"
+  },
+  {
+    "sequence": 44,
+    "planned": "BCCWJ_EyeTrack_PRACTICE_B_JA",
+    "actual": "D1080_PR_B_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0344__"
+  },
+  {
+    "sequence": 45,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_JA",
+    "actual": "D1080_AB_H1_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0345__"
+  },
+  {
+    "sequence": 46,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_JA",
+    "actual": "D1080_AB_H2_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0346__"
+  },
+  {
+    "sequence": 47,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_JA",
+    "actual": "D1080_BA_H1_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0347__"
+  },
+  {
+    "sequence": 48,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_JA",
+    "actual": "D1080_BA_H2_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0348__"
+  },
+  {
+    "sequence": 49,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_JA",
+    "actual": "D1080_CD_H1_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0349__"
+  },
+  {
+    "sequence": 50,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_JA",
+    "actual": "D1080_CD_H2_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0350__"
+  },
+  {
+    "sequence": 51,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_JA",
+    "actual": "D1080_DC_H1_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0351__"
+  },
+  {
+    "sequence": 52,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_JA",
+    "actual": "D1080_DC_H2_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0352__"
+  },
+  {
+    "sequence": 53,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A02_JA",
+    "actual": "D1080_AB_H1_A02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0353__"
+  },
+  {
+    "sequence": 54,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A03_JA",
+    "actual": "D1080_AB_H1_A03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0354__"
+  },
+  {
+    "sequence": 55,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A04_JA",
+    "actual": "D1080_AB_H1_A04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0355__"
+  },
+  {
+    "sequence": 56,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H1_FROM_A05_JA",
+    "actual": "D1080_AB_H1_A05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0356__"
+  },
+  {
+    "sequence": 57,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B02_JA",
+    "actual": "D1080_AB_H2_B02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0357__"
+  },
+  {
+    "sequence": 58,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B03_JA",
+    "actual": "D1080_AB_H2_B03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0358__"
+  },
+  {
+    "sequence": 59,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B04_JA",
+    "actual": "D1080_AB_H2_B04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0359__"
+  },
+  {
+    "sequence": 60,
+    "planned": "BCCWJ_EyeTrack_FORMAL_AB_H2_FROM_B05_JA",
+    "actual": "D1080_AB_H2_B05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0360__"
+  },
+  {
+    "sequence": 61,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B02_JA",
+    "actual": "D1080_BA_H1_B02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0361__"
+  },
+  {
+    "sequence": 62,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B03_JA",
+    "actual": "D1080_BA_H1_B03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0362__"
+  },
+  {
+    "sequence": 63,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B04_JA",
+    "actual": "D1080_BA_H1_B04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0363__"
+  },
+  {
+    "sequence": 64,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H1_FROM_B05_JA",
+    "actual": "D1080_BA_H1_B05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0364__"
+  },
+  {
+    "sequence": 65,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A02_JA",
+    "actual": "D1080_BA_H2_A02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0365__"
+  },
+  {
+    "sequence": 66,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A03_JA",
+    "actual": "D1080_BA_H2_A03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0366__"
+  },
+  {
+    "sequence": 67,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A04_JA",
+    "actual": "D1080_BA_H2_A04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0367__"
+  },
+  {
+    "sequence": 68,
+    "planned": "BCCWJ_EyeTrack_FORMAL_BA_H2_FROM_A05_JA",
+    "actual": "D1080_BA_H2_A05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0368__"
+  },
+  {
+    "sequence": 69,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C02_JA",
+    "actual": "D1080_CD_H1_C02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0369__"
+  },
+  {
+    "sequence": 70,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C03_JA",
+    "actual": "D1080_CD_H1_C03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0370__"
+  },
+  {
+    "sequence": 71,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C04_JA",
+    "actual": "D1080_CD_H1_C04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0371__"
+  },
+  {
+    "sequence": 72,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H1_FROM_C05_JA",
+    "actual": "D1080_CD_H1_C05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0372__"
+  },
+  {
+    "sequence": 73,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D02_JA",
+    "actual": "D1080_CD_H2_D02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0373__"
+  },
+  {
+    "sequence": 74,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D03_JA",
+    "actual": "D1080_CD_H2_D03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0374__"
+  },
+  {
+    "sequence": 75,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D04_JA",
+    "actual": "D1080_CD_H2_D04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0375__"
+  },
+  {
+    "sequence": 76,
+    "planned": "BCCWJ_EyeTrack_FORMAL_CD_H2_FROM_D05_JA",
+    "actual": "D1080_CD_H2_D05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0376__"
+  },
+  {
+    "sequence": 77,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D02_JA",
+    "actual": "D1080_DC_H1_D02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0377__"
+  },
+  {
+    "sequence": 78,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D03_JA",
+    "actual": "D1080_DC_H1_D03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0378__"
+  },
+  {
+    "sequence": 79,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D04_JA",
+    "actual": "D1080_DC_H1_D04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0379__"
+  },
+  {
+    "sequence": 80,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H1_FROM_D05_JA",
+    "actual": "D1080_DC_H1_D05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0380__"
+  },
+  {
+    "sequence": 81,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C02_JA",
+    "actual": "D1080_DC_H2_C02_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0381__"
+  },
+  {
+    "sequence": 82,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C03_JA",
+    "actual": "D1080_DC_H2_C03_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0382__"
+  },
+  {
+    "sequence": 83,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C04_JA",
+    "actual": "D1080_DC_H2_C04_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0383__"
+  },
+  {
+    "sequence": 84,
+    "planned": "BCCWJ_EyeTrack_FORMAL_DC_H2_FROM_C05_JA",
+    "actual": "D1080_DC_H2_C05_JA",
+    "language": "JA",
+    "guest_path": "__MASKED_LOCAL_PATH_0384__"
+  }
+]

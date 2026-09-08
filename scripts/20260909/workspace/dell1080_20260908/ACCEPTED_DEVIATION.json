@@ -1,0 +1,30 @@
+{
+  "id": "DELL1080_DOT_IMPORT_ROUNDING_20260908",
+  "approved": true,
+  "user_instruction": "ok记录这个偏差然后使用继续搭建吧",
+  "date": "2026-09-08",
+  "scope": "84 new DELL1080 ZH/JA projects only",
+  "source_package_sha256": "875cf90bb9e6042ec0f9286495399d18995ac1838c9c70528b3f861e1d414b63",
+  "changes": {
+    "DOT_H": {
+      "expected": "0.07777778",
+      "observed": "0.0778",
+      "target_pixels": 84,
+      "observed_pixels": 84.024
+    },
+    "DOT_Y": {
+      "expected": "0.06666667",
+      "observed": "0.0667",
+      "target_pixels": 72,
+      "observed_pixels": 72.036
+    }
+  },
+  "maximum_bottom_edge_difference_pixels": 0.06,
+  "conditions": [
+    "Import the original sealed Mac workbooks unchanged.",
+    "Preserve strict original checks and their failures in separate reports.",
+    "Accept only the exact two numeric substitutions listed above; every other table cell, binding and experiment setting remains subject to original checks.",
+    "Do not modify private project databases, DLLs or original pilot recordings.",
+    "Hardware and live gaze validation remain pending on the laboratory apparatus."
+  ]
+}

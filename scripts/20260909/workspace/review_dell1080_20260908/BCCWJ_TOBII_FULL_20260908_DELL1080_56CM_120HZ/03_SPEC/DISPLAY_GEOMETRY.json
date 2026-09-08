@@ -1,0 +1,130 @@
+{
+  "distance_sensitivity": [
+    {
+      "eye_to_screen_plane_mm": 550,
+      "role": "nearby_comparison",
+      "character_x_deg": 0.9149767911597255,
+      "character_y_deg": 0.9136264715483919,
+      "dot_x_deg": 0.457495687500165,
+      "dot_y_deg": 0.45682049545760534,
+      "gate_w_deg": 2.7444638467264726,
+      "gate_h_deg": 2.397970215102742,
+      "one_pixel_x_deg": 0.02859363179613167,
+      "one_pixel_y_deg": 0.028551431624450653,
+      "row_pitch_165px_deg": 4.708334954185845,
+      "screen_w_deg_centered_eye": 51.197314733580484,
+      "screen_h_deg_centered_eye": 30.122032192957228,
+      "one_degree_pixels_x": 34.97370924873351,
+      "one_degree_pixels_y": 35.025401808856216,
+      "half_degree_pixels_x": 17.48652169510761,
+      "half_degree_pixels_y": 17.512367483086017
+    },
+    {
+      "eye_to_screen_plane_mm": 560,
+      "role": "current_target",
+      "character_x_deg": 0.8986385958480259,
+      "character_y_deg": 0.8973123860985976,
+      "dot_x_deg": 0.4493262061515866,
+      "dot_y_deg": 0.4486630707362148,
+      "gate_w_deg": 2.6954738036757973,
+      "gate_h_deg": 2.3551614856544925,
+      "one_pixel_x_deg": 0.02808303124897378,
+      "one_pixel_y_deg": 0.028041584651695865,
+      "row_pitch_165px_deg": 4.624349624447696,
+      "screen_w_deg_centered_eye": 50.397319893334235,
+      "screen_h_deg_centered_eye": 29.607960312540992,
+      "one_degree_pixels_x": 35.60959487143776,
+      "one_degree_pixels_y": 35.66222729628997,
+      "half_degree_pixels_x": 17.804458453200475,
+      "half_degree_pixels_y": 17.830774164596672
+    },
+    {
+      "eye_to_screen_plane_mm": 650,
+      "role": "withdrawn_target_comparison_only",
+      "character_x_deg": 0.7742158040995472,
+      "character_y_deg": 0.7730732053077093,
+      "dot_x_deg": 0.38711231974560156,
+      "dot_y_deg": 0.38654100081928927,
+      "gate_w_deg": 2.3223647475043525,
+      "gate_h_deg": 2.029135841210531,
+      "one_pixel_x_deg": 0.02419461166242532,
+      "one_pixel_y_deg": 0.02415890382421854,
+      "row_pitch_165px_deg": 3.9846124639391425,
+      "screen_w_deg_centered_eye": 44.133753029667965,
+      "screen_h_deg_centered_eye": 25.65424684584494,
+      "one_degree_pixels_x": 41.33256547577597,
+      "one_degree_pixels_y": 41.39365668319372,
+      "half_degree_pixels_x": 20.665889276036264,
+      "half_degree_pixels_y": 20.696434298192564
+    }
+  ],
+  "distance_status": "560 mm target after user correction to preserve previous approximately 55 cm EIZO setup; actual distance and tracking coverage require onsite verification. 650 mm default withdrawn.",
+  "distance_target_mm": 560,
+  "distance_basis": {
+    "old_eizo_target_mm": 550,
+    "old_eizo_pixel_pitch_mm": 0.27,
+    "new_assumed_horizontal_pixel_pitch_mm": 0.27447916666666666,
+    "equal_pixel_visual_angle_new_distance_mm": 559.1242283950617,
+    "rounded_operating_target_mm": 560,
+    "historical_design_document": "experiment_design/2026-06-28_L2_eye_tracking_space0_design.md, Viewing Distance",
+    "not_proof_of_old_measured_distance": true
+  },
+  "angular_formula": "theta_deg = 2*atan(size_mm/(2*distance_mm))*180/pi; size_px = 2*distance_mm*tan(theta_deg*pi/360)/mm_per_px",
+  "angular_assumptions": "Standard centered-target / near-axis conversion using rounded 527x296 mm and perpendicular screen distance. Exact eccentric-target angles need eye position relative to the target. Not measured calibration error or hardware gaze-angle coverage.",
+  "profile_id": "DELL238_FHD_56CM_FUSION120_20260908",
+  "assumed_display_mm": [
+    527,
+    296
+  ],
+  "resolution_px": [
+    1920,
+    1080
+  ],
+  "physical_display_verified": false,
+  "normalized": {
+    "MAIN": {
+      "W": 1,
+      "H": 1,
+      "X": 0,
+      "Y": 0
+    },
+    "DOT": {
+      "W": 0.05,
+      "H": 0.07777778,
+      "X": 0.01,
+      "Y": 0.06666667
+    }
+  },
+  "coordinate_rounding_decimals": 8,
+  "exact_dot_fractions": {
+    "H": "84/1080",
+    "Y": "72/1080"
+  },
+  "main_xywh_px": [
+    0,
+    0,
+    1920,
+    1080
+  ],
+  "dot_xywh_px": [
+    19.2,
+    72,
+    96,
+    84
+  ],
+  "dot_visible_alpha_bbox_local": [
+    40,
+    34,
+    56,
+    50
+  ],
+  "dot_visible_center_screen_px": [
+    67.2,
+    114
+  ],
+  "screen_to_image_offset_px": [
+    0,
+    0
+  ],
+  "note": "Pixel rectangles are ideal targets; 8 decimal normalized values differ by less than 0.00001 px. Onsite verify native render rectangles. Historical 1200p data have a different transform."
+}
