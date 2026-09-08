@@ -12,6 +12,7 @@ Maintained by **Ikaruga**.
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
 |---|---|---|---|
+| 2026-09-07 | [眼动阅读流程试跑与设备配置问题复核](zh/2026-09-07_01.md) | [読解手順の試行と機器設定の再確認](ja/2026-09-07_01.md) | [Reading workflow test and equipment settings review](en/2026-09-07_01.md) |
 | 2026-09-04 | [首次眼动阅读全流程测试](zh/2026-09-04_01.md) | [読解手順の初回通しテスト](ja/2026-09-04_01.md) | [First reading workflow test](en/2026-09-04_01.md) |
 
 Each entry is available in Chinese, Japanese, and English and identifies the language of the original account. Observations, interpretations, and proposed explanations are distinguished in the logs.
@@ -35,11 +36,11 @@ Files with the same name refer to the same session. `_01`, `_02`, etc. distingui
 
 同名文件对应同一场次，同日多场以 `_01`、`_02` 等区分。新日志按日期倒序加入上方索引；脚本发布时再添加 `scripts/` 目录。
 
-Translations carry a human-review status. The Japanese and English translations for 2026-09-04 have **not yet been reviewed by a human**; publication does not change that status.
+Translations carry a human-review status. The Japanese and English translations for 2026-09-04 and 2026-09-07 have **not yet been reviewed by a human**; publication does not change that status.
 
-訳文には人手による確認状況を明記します。2026-09-04 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
+訳文には人手による確認状況を明記します。2026-09-04 および 2026-09-07 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
 
-译文注明人工确认状态。2026-09-04 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
+译文注明人工确认状态。2026-09-04 和 2026-09-07 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
 
 ## Scripts · スクリプト · 脚本
 
