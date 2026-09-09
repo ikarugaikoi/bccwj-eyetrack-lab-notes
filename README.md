@@ -12,6 +12,7 @@ Maintained by **Ikaruga**.
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
 |---|---|---|---|
+| 2026-09-09 | [两位受试者的 pilot 试验](zh/2026-09-09_01.md) | [2 名の参加者による pilot 実験](ja/2026-09-09_01.md) | [Pilot sessions with two participants](en/2026-09-09_01.md) |
 | 2026-09-07 | [眼动阅读流程试跑与设备配置问题复核](zh/2026-09-07_01.md) | [読解手順の試行と機器設定の再確認](ja/2026-09-07_01.md) | [Reading workflow test and equipment settings review](en/2026-09-07_01.md) |
 | 2026-09-04 | [首次眼动阅读全流程测试](zh/2026-09-04_01.md) | [読解手順の初回通しテスト](ja/2026-09-04_01.md) | [First reading workflow test](en/2026-09-04_01.md) |
 
@@ -31,17 +32,17 @@ en/YYYY-MM-DD_01.md
 scripts/20260909/README.md
 ```
 
-Files with the same name refer to the same session. `_01`, `_02`, etc. distinguish sessions on the same date. New entries are added to the table above, newest first. Build-script snapshots are stored under `scripts/` by date.
+Files with the same name refer to the same log entry. `_01`, `_02`, etc. distinguish entries on the same date. The September 9 entry covers two pilot sessions. New entries are added to the table above, newest first. Build-script snapshots are stored under `scripts/` by date.
 
-同名のファイルは同一セッションの記録です。同日に複数のセッションがある場合は `_01`、`_02` などで区別します。新しい記録は上の一覧に日付の新しい順で追加します。構築スクリプトは `scripts/` に日付別で保存します。
+同名のファイルは同一の記録です。同日に複数の記録がある場合は `_01`、`_02` などで区別します。9 月 9 日の記録は 2 名の pilot 実験をまとめたものです。新しい記録は上の一覧に日付の新しい順で追加します。構築スクリプトは `scripts/` に日付別で保存します。
 
-同名文件对应同一场次，同日多场以 `_01`、`_02` 等区分。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
+同名文件对应同一条日志，同日多条以 `_01`、`_02` 等区分。9 月 9 日的日志合并记录了两位受试者的 pilot。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
 
-Translations carry a human-review status. The Japanese and English translations for 2026-09-04 and 2026-09-07 have **not yet been reviewed by a human**; publication does not change that status.
+Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, and 2026-09-09 have **not yet been reviewed by a human**; publication does not change that status.
 
-訳文には人手による確認状況を明記します。2026-09-04 および 2026-09-07 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
+訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
 
-译文注明人工确认状态。2026-09-04 和 2026-09-07 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
+译文注明人工确认状态。2026-09-04、2026-09-07 和 2026-09-09 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
 
 ## Scripts · スクリプト · 脚本
 
