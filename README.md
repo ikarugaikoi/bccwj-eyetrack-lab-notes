@@ -12,6 +12,7 @@ Maintained by **Ikaruga**.
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
 |---|---|---|---|
+| 2026-09-24 | [正式实验：CD／DC 流程与校准失败终止](zh/2026-09-24_01.md) | [本実験：CD／DC の手順とキャリブレーション不合格による中止](ja/2026-09-24_01.md) | [Main-study sessions: CD/DC workflows and termination after failed calibration](en/2026-09-24_01.md) |
 | 2026-09-15 | [首次正式实验](zh/2026-09-15_01.md) | [初回の本実験](ja/2026-09-15_01.md) | [First main-study data collection](en/2026-09-15_01.md) |
 | 2026-09-09 | [两位受试者的 pilot 试验](zh/2026-09-09_01.md) | [2 名の参加者による pilot 実験](ja/2026-09-09_01.md) | [Pilot sessions with two participants](en/2026-09-09_01.md) |
 | 2026-09-07 | [眼动阅读流程试跑与设备配置问题复核](zh/2026-09-07_01.md) | [読解手順の試行と機器設定の再確認](ja/2026-09-07_01.md) | [Reading workflow test and equipment settings review](en/2026-09-07_01.md) |
@@ -39,11 +40,11 @@ Files with the same name refer to the same log entry. `_01`, `_02`, etc. disting
 
 同名文件对应同一条日志，同日多条以 `_01`、`_02` 等区分。9 月 9 日的日志合并记录了两位受试者的 pilot。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
 
-Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, and 2026-09-15 have **not yet been reviewed by a human**; publication does not change that status.
+Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, 2026-09-15, and 2026-09-24 have **not yet been reviewed by a human**; publication does not change that status.
 
-訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
+訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
 
-译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09 和 2026-09-15 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
+译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09、2026-09-15 和 2026-09-24 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
 
 ## Scripts · スクリプト · 脚本
 
