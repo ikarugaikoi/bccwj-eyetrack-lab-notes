@@ -12,6 +12,7 @@ Maintained by **Ikaruga**.
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
 |---|---|---|---|
+| 2026-09-30 | [正式实验 CD／AB／DC 与显示器高度自测](zh/2026-09-30_01.md) | [本実験 CD／AB／DC とモニターの高さの自己テスト](ja/2026-09-30_01.md) | [Main-study CD/AB/DC sessions and monitor-height self-test](en/2026-09-30_01.md) |
 | 2026-09-29 | [正式实验：BA／DC 流程与 C05 续录](zh/2026-09-29_01.md) | [本実験：BA／DC の手順と C05 の続きの録画](ja/2026-09-29_01.md) | [Main-study sessions: BA/DC workflows and C05 continuation](en/2026-09-29_01.md) |
 | 2026-09-28 | [正式实验：校准判读与黑点检查](zh/2026-09-28_01.md) | [本実験：キャリブレーション結果の判読と黒点注視チェック](ja/2026-09-28_01.md) | [Main-study sessions: Interpreting calibration results and black-dot fixation checks](en/2026-09-28_01.md) |
 | 2026-09-24 | [正式实验：CD／DC 流程与校准失败终止](zh/2026-09-24_01.md) | [本実験：CD／DC の手順とキャリブレーション不合格による中止](ja/2026-09-24_01.md) | [Main-study sessions: CD/DC workflows and termination after failed calibration](en/2026-09-24_01.md) |
@@ -26,6 +27,16 @@ Each entry is available in Chinese, Japanese, and English and identifies the lan
 
 每条记录均提供中文、日文和英文，并标明原始叙述语言。日志区分观察事实、实验者判断及推测。
 
+## Reports · レポート · 专题报告
+
+[Monitor-height and validation-error trends (2026-09-30) · モニターの高さとバリデーション誤差の傾向 · 显示器高度与 validation 误差趋势](reports/2026-09-30-display-height/README.md)
+
+A separate trilingual report with Ikaruga's self-test data and an eighteen-round table.
+
+Ikaruga 本人の自己テストデータと 18 回の明細表を掲載した、実験記録とは別の三言語レポートです。
+
+独立于实验日志索引，收录 Ikaruga 本人自测数据及十八轮明细表的三语报告。
+
 ## Structure · 構成 · 目录结构
 
 ```text
@@ -34,6 +45,9 @@ zh/YYYY-MM-DD_01.md
 ja/YYYY-MM-DD_01.md
 en/YYYY-MM-DD_01.md
 scripts/20260909/README.md
+reports/2026-09-30-display-height/README.md
+reports/2026-09-30-display-height/{zh,ja,en}.md
+reports/2026-09-30-display-height/data/
 ```
 
 Files with the same name refer to the same log entry. `_01`, `_02`, etc. distinguish entries on the same date. The September 9 entry covers two pilot sessions. New entries are added to the table above, newest first. Build-script snapshots are stored under `scripts/` by date.
@@ -42,11 +56,11 @@ Files with the same name refer to the same log entry. `_01`, `_02`, etc. disting
 
 同名文件对应同一条日志，同日多条以 `_01`、`_02` 等区分。9 月 9 日的日志合并记录了两位受试者的 pilot。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
 
-Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, 2026-09-15, 2026-09-24, 2026-09-28, and 2026-09-29 have **not yet been reviewed by a human**; publication does not change that status.
+Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, 2026-09-15, 2026-09-24, 2026-09-28, 2026-09-29, and 2026-09-30 (including the report) have **not yet been reviewed by a human**; publication does not change that status.
 
-訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
+訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29、2026-09-30（レポートを含む）の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
 
-译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28 和 2026-09-29 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
+译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29 和 2026-09-30（含专题报告）的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
 
 ## Scripts · スクリプト · 脚本
 
