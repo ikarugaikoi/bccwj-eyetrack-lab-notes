@@ -12,6 +12,7 @@ Maintained by **Ikaruga**.
 
 | Date / 日期 / 日付 | 中文 | 日本語 | English |
 |---|---|---|---|
+| 2026-10-02 | [正式实验五场与 AB 续录](zh/2026-10-02_01.md) | [本実験 5 セッションと AB の続きの録画](ja/2026-10-02_01.md) | [Five main-study sessions and AB continuation recordings](en/2026-10-02_01.md) |
 | 2026-10-01 | [正式实验 CD 流程与 D03 续录](zh/2026-10-01_01.md) | [本実験 CD の手順と D03 の続きの録画](ja/2026-10-01_01.md) | [Main-study CD workflow and D03 continuation](en/2026-10-01_01.md) |
 | 2026-09-30 | [正式实验 CD／AB／DC 与显示器高度自测](zh/2026-09-30_01.md) | [本実験 CD／AB／DC とモニターの高さの自己テスト](ja/2026-09-30_01.md) | [Main-study CD/AB/DC sessions and monitor-height self-test](en/2026-09-30_01.md) |
 | 2026-09-29 | [正式实验：BA／DC 流程与 C05 续录](zh/2026-09-29_01.md) | [本実験：BA／DC の手順と C05 の続きの録画](ja/2026-09-29_01.md) | [Main-study sessions: BA/DC workflows and C05 continuation](en/2026-09-29_01.md) |
@@ -57,11 +58,11 @@ Files with the same name refer to the same log entry. `_01`, `_02`, etc. disting
 
 同名文件对应同一条日志，同日多条以 `_01`、`_02` 等区分。9 月 9 日的日志合并记录了两位受试者的 pilot。新日志按日期倒序加入上方索引；搭建脚本按日期存放于 `scripts/` 目录。
 
-Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, 2026-09-15, 2026-09-24, 2026-09-28, 2026-09-29, 2026-09-30 (including the report), and 2026-10-01 have **not yet been reviewed by a human**; publication does not change that status.
+Translations carry a human-review status. The Japanese and English translations for 2026-09-04, 2026-09-07, 2026-09-09, 2026-09-15, 2026-09-24, 2026-09-28, 2026-09-29, 2026-09-30 (including the report), 2026-10-01, and 2026-10-02 have **not yet been reviewed by a human**; publication does not change that status.
 
-訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29、2026-09-30（レポートを含む）、2026-10-01 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
+訳文には人手による確認状況を明記します。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29、2026-09-30（レポートを含む）、2026-10-01、2026-10-02 の日本語版・英語版は **人手による確認未実施** です。公開したことをもって確認済みとはしません。
 
-译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29、2026-09-30（含专题报告）和 2026-10-01 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
+译文注明人工确认状态。2026-09-04、2026-09-07、2026-09-09、2026-09-15、2026-09-24、2026-09-28、2026-09-29、2026-09-30（含专题报告）、2026-10-01 和 2026-10-02 的日文、英文译文均为 **未经过人工确认**，公开发布不改变该状态。
 
 ## Scripts · スクリプト · 脚本
 
